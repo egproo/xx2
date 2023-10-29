@@ -1,0 +1,181 @@
+{
+	"info": {
+		"_postman_id": "dc776b52-482b-4dec-ae7b-9659b71a62aa",
+		"name": "Salla OAuth",
+		"description": "In this collection, you will find ready-made requests for both generating Access Tokens and Refreshing Access Tokens.\n\nMore details are in the below articles:\n\n- [https://docs.salla.dev/docs/merchant/2fa0d7aca2def-authorization](https://docs.salla.dev/docs/merchant/2fa0d7aca2def-authorization)\n- [https://salla.dev/blog/oauth-2-0-in-action-with-salla](https://salla.dev/blog/oauth-2-0-in-action-with-salla/#:~:text=G%3A%20scope%3Doffline_access-,Another%20very,-important%20note%20to)\n- Video Demonstration: [https://cdn.salla.network/docs/tutorials/partners_oauth_access_token.mp4](https://cdn.salla.network/docs/tutorials/partners_oauth_access_token.mp4)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17508367",
+		"_collection_link": "https://www.postman.com/salla-app/workspace/salla-e-commerce-platform/collection/17687195-dc776b52-482b-4dec-ae7b-9659b71a62aa?action=share&source=collection_link&creator=17508367"
+	},
+	"item": [
+		{
+			"name": "Generate OAuth Access Token",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{ACCESS_TOKEN}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "client_id",
+							"value": "{{CLIENT_ID}}",
+							"description": "Salla Partners App Client ID",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "{{CLIENT_SECRET}}",
+							"description": "Salla Partners App Client Secret Key",
+							"type": "text"
+						},
+						{
+							"key": "grant_type",
+							"value": "authorization_code",
+							"description": "authorization_code",
+							"type": "text"
+						},
+						{
+							"key": "code",
+							"value": "",
+							"description": "The code that is fetched at authorization",
+							"type": "text"
+						},
+						{
+							"key": "scope",
+							"value": "offline_access",
+							"description": "offline_access",
+							"type": "text"
+						},
+						{
+							"key": "redirect_uri",
+							"value": "",
+							"description": "Your application’s callback URI",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://accounts.salla.sa/oauth2/token",
+					"protocol": "https",
+					"host": [
+						"accounts",
+						"salla",
+						"sa"
+					],
+					"path": [
+						"oauth2",
+						"token"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Refresh OAuth Access Token",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{ACCESS_TOKEN}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "client_id",
+							"value": "{{CLIENT_ID}}",
+							"description": "You can get the value from your app on salla.partners",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "{{CLIENT_SECRET}}",
+							"description": "You can get the value from your app on salla.partners",
+							"type": "text"
+						},
+						{
+							"key": "refresh_token",
+							"value": "",
+							"description": "When getting the authorization from the Merchant, you are supposed to save the Access Token",
+							"type": "text"
+						},
+						{
+							"key": "grant_type",
+							"value": "refresh_token",
+							"description": "Use the following value: refresh_token",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://accounts.salla.sa/oauth2/token",
+					"protocol": "https",
+					"host": [
+						"accounts",
+						"salla",
+						"sa"
+					],
+					"path": [
+						"oauth2",
+						"token"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "CLIENT_ID",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"key": "CLIENT_SECRET",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"key": "ACCESS_TOKEN",
+			"value": "",
+			"type": "string"
+		}
+	]
+}
