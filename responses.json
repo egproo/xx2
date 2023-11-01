@@ -1,0 +1,6277 @@
+[{
+  "event": "product.created",
+  "merchant": 910242450,
+  "created_at": "Mon Oct 30 2023 20:05:35 GMT+0300",
+  "data": {
+    "id": 85420627,
+    "promotion": {
+      "title": null,
+      "sub_title": null
+    },
+    "sku": "",
+    "mpn": null,
+    "gtin": null,
+    "type": "product",
+    "name": "منتج تجريببي",
+    "short_link_code": "bRaOonj",
+    "urls": {
+      "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/منتج-تجريببي/p85420627",
+      "admin": "https://s.salla.sa/products/85420627"
+    },
+    "price": {
+      "amount": 500,
+      "currency": "SAR"
+    },
+    "taxed_price": {
+      "amount": 500,
+      "currency": "SAR"
+    },
+    "pre_tax_price": {
+      "amount": 500,
+      "currency": "SAR"
+    },
+    "tax": {
+      "amount": 0,
+      "currency": "SAR"
+    },
+    "description": "",
+    "quantity": null,
+    "status": "hidden",
+    "is_available": false,
+    "views": 0,
+    "sale_price": {
+      "amount": 0,
+      "currency": "SAR"
+    },
+    "sale_end": null,
+    "require_shipping": true,
+    "cost_price": "",
+    "weight": 0,
+    "weight_type": "kg",
+    "with_tax": true,
+    "url": "https://salla.sa/dev-lfn63dclx2pulxgv/منتج-تجريببي/p85420627",
+    "main_image": "",
+    "images": [],
+    "sold_quantity": 0,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "rate": 0
+    },
+    "regular_price": {
+      "amount": 500,
+      "currency": "SAR"
+    },
+    "max_items_per_user": 0,
+    "maximum_quantity_per_order": null,
+    "show_in_app": false,
+    "notify_quantity": 0,
+    "hide_quantity": false,
+    "unlimited_quantity": true,
+    "managed_by_branches": false,
+    "services_blocks": {
+      "installments": []
+    },
+    "calories": null,
+    "customized_sku_quantity": false,
+    "channels": [],
+    "metadata": {
+      "title": null,
+      "description": null,
+      "url": null
+    },
+    "allow_attachments": false,
+    "is_pinned": false,
+    "pinned_date": "2023-10-30 20:05:35",
+    "sort": 0,
+    "enable_upload_image": false,
+    "updated_at": "2023-10-30 20:05:35",
+    "options": [],
+    "skus": [],
+    "categories": [
+      {
+        "id": 110422035,
+        "name": "الفساتين",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/الفساتين/c110422035",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 10,
+        "update_at": "2023-10-23 15:54:59",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      },
+      {
+        "id": 1349646108,
+        "name": "البلايز",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/البلايز/c1349646108",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 11,
+        "update_at": "2023-10-23 15:54:59",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      },
+      {
+        "id": 576591389,
+        "name": "التنانير",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/التنانير/c576591389",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 12,
+        "update_at": "2023-10-23 15:54:59",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      },
+      {
+        "id": 2084255006,
+        "name": "الجاكيتات",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/الجاكيتات/c2084255006",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 13,
+        "update_at": "2023-10-23 15:54:59",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      }
+    ],
+    "brand": null,
+    "tags": []
+  }
+},
+
+{
+  "event": "product.updated",
+  "merchant": 910242450,
+  "created_at": "Mon Oct 30 2023 21:21:54 GMT+0300",
+  "data": {
+    "id": 85420627,
+    "promotion": {
+      "title": null,
+      "sub_title": null
+    },
+    "sku": "",
+    "mpn": null,
+    "gtin": null,
+    "type": "product",
+    "name": "منتج تجريببي",
+    "short_link_code": "bRaOonj",
+    "urls": {
+      "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/منتج-تجريببي/p85420627",
+      "admin": "https://s.salla.sa/products/85420627"
+    },
+    "price": {
+      "amount": 500,
+      "currency": "SAR"
+    },
+    "taxed_price": {
+      "amount": 500,
+      "currency": "SAR"
+    },
+    "pre_tax_price": {
+      "amount": 500,
+      "currency": "SAR"
+    },
+    "tax": {
+      "amount": 0,
+      "currency": "SAR"
+    },
+    "description": "",
+    "quantity": null,
+    "status": "sale",
+    "is_available": true,
+    "views": 0,
+    "sale_price": {
+      "amount": 0,
+      "currency": "SAR"
+    },
+    "sale_end": null,
+    "require_shipping": true,
+    "cost_price": "",
+    "weight": 0,
+    "weight_type": "kg",
+    "with_tax": true,
+    "url": "https://salla.sa/dev-lfn63dclx2pulxgv/منتج-تجريببي/p85420627",
+    "main_image": "https://cdn.salla.sa/dPbglp/IxT8qP5H0LgLuwV68KSPIhqQFQL2TEGotUfLGFya.png",
+    "images": [
+      {
+        "id": 627382888,
+        "url": "https://cdn.salla.sa/dPbglp/lANOJeEvM3NFjB839sukuDUQ2OcXD36F0sIRocjJ.png",
+        "main": true,
+        "three_d_image_url": "",
+        "alt": "منتج تجريببي",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      },
+      {
+        "id": 1582319435,
+        "url": "https://cdn.salla.sa/dPbglp/n0M16dQKZbgYX3fnUhJtTCKYub69DiKnrLVPczAR.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "منتج تجريببي",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      }
+    ],
+    "sold_quantity": 0,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "rate": 0
+    },
+    "regular_price": {
+      "amount": 500,
+      "currency": "SAR"
+    },
+    "max_items_per_user": 0,
+    "maximum_quantity_per_order": null,
+    "show_in_app": false,
+    "notify_quantity": 0,
+    "hide_quantity": false,
+    "unlimited_quantity": true,
+    "managed_by_branches": false,
+    "services_blocks": {
+      "installments": []
+    },
+    "calories": null,
+    "customized_sku_quantity": false,
+    "channels": [
+      "web"
+    ],
+    "metadata": {
+      "title": null,
+      "description": null,
+      "url": null
+    },
+    "allow_attachments": false,
+    "is_pinned": false,
+    "pinned_date": "2023-10-30 20:05:35",
+    "sort": 0,
+    "enable_upload_image": false,
+    "updated_at": "2023-10-30 21:21:30",
+    "options": [],
+    "skus": [],
+    "categories": [
+      {
+        "id": 110422035,
+        "name": "الفساتين",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/الفساتين/c110422035",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 10,
+        "update_at": "2023-10-23 15:54:59",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      },
+      {
+        "id": 1349646108,
+        "name": "البلايز",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/البلايز/c1349646108",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 11,
+        "update_at": "2023-10-23 15:54:59",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      },
+      {
+        "id": 576591389,
+        "name": "التنانير",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/التنانير/c576591389",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 12,
+        "update_at": "2023-10-23 15:54:59",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      },
+      {
+        "id": 2084255006,
+        "name": "الجاكيتات",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/الجاكيتات/c2084255006",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 13,
+        "update_at": "2023-10-23 15:54:59",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      }
+    ],
+    "brand": null,
+    "tags": []
+  }
+},
+
+{
+  "event": "category.created",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:15:57 GMT+0300",
+  "data": {
+    "id": 1551451594,
+    "name": null,
+    "urls": {
+      "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/-/c1551451594",
+      "admin": "https://s.salla.sa/categories"
+    },
+    "items": [],
+    "parent_id": 0,
+    "status": "hidden",
+    "sort_order": 4,
+    "update_at": "2023-11-01 03:15:57",
+    "metadata": {
+      "title": null,
+      "description": null,
+      "url": null
+    },
+    "sub_categories": []
+  }
+},
+{
+  "event": "category.created",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:15:57 GMT+0300",
+  "data": {
+    "id": 1551451594,
+    "name": null,
+    "urls": {
+      "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/-/c1551451594",
+      "admin": "https://s.salla.sa/categories"
+    },
+    "items": [],
+    "parent_id": 0,
+    "status": "hidden",
+    "sort_order": 4,
+    "update_at": "2023-11-01 03:15:57",
+    "metadata": {
+      "title": null,
+      "description": null,
+      "url": null
+    },
+    "sub_categories": []
+  }
+},
+{
+  "event": "category.updated",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:16:49 GMT+0300",
+  "data": {
+    "id": 1551451594,
+    "name": "تست",
+    "urls": {
+      "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/تست/c1551451594",
+      "admin": "https://s.salla.sa/categories"
+    },
+    "items": [
+      {
+        "id": 1242145493,
+        "name": "",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/-/c1242145493",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 1551451594,
+        "status": "hidden",
+        "sort_order": 4,
+        "update_at": "2023-11-01 03:16:41",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      }
+    ],
+    "parent_id": 0,
+    "status": "hidden",
+    "sort_order": 4,
+    "update_at": "2023-11-01 03:16:49",
+    "metadata": {
+      "title": null,
+      "description": null,
+      "url": null
+    },
+    "sub_categories": [
+      {
+        "id": 1242145493,
+        "name": "",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/-/c1242145493",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 1551451594,
+        "status": "hidden",
+        "sort_order": 4,
+        "update_at": "2023-11-01 03:16:41",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      }
+    ]
+  }
+},
+{
+  "event": "brand.created",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:22:25 GMT+0300",
+  "data": {
+    "id": 1341641119,
+    "name": "تست ماركة",
+    "description": "",
+    "banner": null,
+    "logo": "https://cdn.salla.sa/dPbglp/NjtRsTzXedUyG9exevE0llfAsRT1Elzedbhr9k18.jpg",
+    "ar_char": "ت",
+    "en_char": "T",
+    "metadata": {
+      "title": "تست",
+      "description": "تست",
+      "url": "تست"
+    }
+  }
+},
+{
+  "event": "brand.updated",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:22:31 GMT+0300",
+  "data": {
+    "id": 1341641119,
+    "name": "تست ماركة",
+    "description": "",
+    "banner": null,
+    "logo": "https://cdn.salla.sa/dPbglp/NjtRsTzXedUyG9exevE0llfAsRT1Elzedbhr9k18.jpg",
+    "ar_char": "ت",
+    "en_char": "T",
+    "metadata": {
+      "title": "تست",
+      "description": "تست",
+      "url": "تست"
+    }
+  }
+},
+{
+  "event": "brand.updated",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:22:44 GMT+0300",
+  "data": {
+    "id": 1341641119,
+    "name": "تست ماركه",
+    "description": "",
+    "banner": null,
+    "logo": "https://cdn.salla.sa/dPbglp/NjtRsTzXedUyG9exevE0llfAsRT1Elzedbhr9k18.jpg",
+    "ar_char": "ت",
+    "en_char": "T",
+    "metadata": {
+      "title": "تست",
+      "description": "تست",
+      "url": "تست"
+    }
+  }
+},
+{
+  "event": "product.updated",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:26:07 GMT+0300",
+  "data": {
+    "id": 853346026,
+    "promotion": {
+      "title": null,
+      "sub_title": null
+    },
+    "sku": "",
+    "mpn": null,
+    "gtin": null,
+    "type": "product",
+    "name": "فستان",
+    "short_link_code": "wWYjEgN",
+    "urls": {
+      "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/فستان/p853346026",
+      "admin": "https://s.salla.sa/products/853346026"
+    },
+    "price": {
+      "amount": 174,
+      "currency": "SAR"
+    },
+    "taxed_price": {
+      "amount": 174,
+      "currency": "SAR"
+    },
+    "pre_tax_price": {
+      "amount": 174,
+      "currency": "SAR"
+    },
+    "tax": {
+      "amount": 0,
+      "currency": "SAR"
+    },
+    "description": "المقاس36الطول130الكم28.53813028.5401302942130294413029.5",
+    "quantity": null,
+    "status": "hidden",
+    "is_available": false,
+    "views": 0,
+    "sale_price": {
+      "amount": 174,
+      "currency": "SAR"
+    },
+    "sale_end": "",
+    "require_shipping": true,
+    "cost_price": "",
+    "weight": 0.1,
+    "weight_type": "kg",
+    "with_tax": true,
+    "url": "https://salla.sa/dev-lfn63dclx2pulxgv/فستان/p853346026",
+    "main_image": "",
+    "images": [
+      {
+        "id": 366629555,
+        "url": "https://cdn.salla.sa/dPbglp/eBOpm2R9ahUmItLT3tMVYTvFoWCnm7cobypsKPNM.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "فستان",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      },
+      {
+        "id": 1739026876,
+        "url": "https://cdn.salla.sa/dPbglp/yZ7P7P45SYTZsS0JvpRqDcLysmxAH6ggJs1E9lBx.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "فستان",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      },
+      {
+        "id": 831361213,
+        "url": "https://cdn.salla.sa/dPbglp/GIquRl8KXZZglAk4KM0zglBVZon6vfdz5jE8FwKT.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "فستان",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      },
+      {
+        "id": 57327550,
+        "url": "https://cdn.salla.sa/dPbglp/OUWNY5aridtG00SIGl4Jxl8jzDrrtqkrAxRVvIhb.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "فستان",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      },
+      {
+        "id": 790429112,
+        "url": "https://cdn.salla.sa/dPbglp/xTKhkq1dX321So1Atx4YuV8Jky0EdUtJyBvr5MiW.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "فستان",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      },
+      {
+        "id": 2029591737,
+        "url": "https://cdn.salla.sa/dPbglp/EHkep3qv7ZrxW9sxjFuC7QGbBx4pvJ58TR8Du9Uv.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "فستان",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      },
+      {
+        "id": 1254505402,
+        "url": "https://cdn.salla.sa/dPbglp/peHOwVjXho1o9fdsIBAGlckdvYBHl17zze9c3yNO.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "فستان",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      }
+    ],
+    "sold_quantity": 0,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "rate": 0
+    },
+    "regular_price": {
+      "amount": 390,
+      "currency": "SAR"
+    },
+    "max_items_per_user": 0,
+    "maximum_quantity_per_order": null,
+    "show_in_app": false,
+    "notify_quantity": null,
+    "hide_quantity": false,
+    "unlimited_quantity": true,
+    "managed_by_branches": false,
+    "services_blocks": {
+      "installments": []
+    },
+    "calories": null,
+    "customized_sku_quantity": false,
+    "channels": [],
+    "metadata": {
+      "title": null,
+      "description": null,
+      "url": null
+    },
+    "allow_attachments": false,
+    "is_pinned": false,
+    "pinned_date": null,
+    "sort": 0,
+    "enable_upload_image": true,
+    "updated_at": "2023-11-01 03:26:07",
+    "options": [
+      {
+        "id": 1491740156,
+        "name": "المقاس",
+        "description": null,
+        "type": "radio",
+        "required": false,
+        "associated_with_order_time": 0,
+        "availability_range": false,
+        "not_same_day_order": false,
+        "choose_date_time": null,
+        "from_date_time": null,
+        "to_date_time": null,
+        "sort": null,
+        "advance": true,
+        "display_type": "text",
+        "visibility": "always",
+        "translations": {
+          "ar": {
+            "option_name": "المقاس",
+            "description": null
+          }
+        },
+        "values": [
+          {
+            "id": 1063150659,
+            "name": "44 - XL",
+            "price": {
+              "amount": 0,
+              "currency": "SAR"
+            },
+            "formatted_price": "",
+            "display_value": null,
+            "advance": true,
+            "option_id": 1491740156,
+            "image_url": null,
+            "hashed_display_value": null,
+            "translations": {
+              "ar": {
+                "option_details_name": "44 - XL"
+              }
+            },
+            "is_default": false,
+            "is_out_of_stock": true
+          },
+          {
+            "id": 153387852,
+            "name": "42 - L",
+            "price": {
+              "amount": 0,
+              "currency": "SAR"
+            },
+            "formatted_price": "",
+            "display_value": null,
+            "advance": true,
+            "option_id": 1491740156,
+            "image_url": null,
+            "hashed_display_value": null,
+            "translations": {
+              "ar": {
+                "option_details_name": "42 - L"
+              }
+            },
+            "is_default": false,
+            "is_out_of_stock": true
+          },
+          {
+            "id": 1526833741,
+            "name": "40 - M",
+            "price": {
+              "amount": 0,
+              "currency": "SAR"
+            },
+            "formatted_price": "",
+            "display_value": null,
+            "advance": true,
+            "option_id": 1491740156,
+            "image_url": null,
+            "hashed_display_value": null,
+            "translations": {
+              "ar": {
+                "option_details_name": "40 - M"
+              }
+            },
+            "is_default": false,
+            "is_out_of_stock": true
+          },
+          {
+            "id": 888062286,
+            "name": "38 - S",
+            "price": {
+              "amount": 0,
+              "currency": "SAR"
+            },
+            "formatted_price": "",
+            "display_value": null,
+            "advance": true,
+            "option_id": 1491740156,
+            "image_url": null,
+            "hashed_display_value": null,
+            "translations": {
+              "ar": {
+                "option_details_name": "38 - S"
+              }
+            },
+            "is_default": false,
+            "is_out_of_stock": true
+          },
+          {
+            "id": 114024527,
+            "name": "36 - XS",
+            "price": {
+              "amount": 0,
+              "currency": "SAR"
+            },
+            "formatted_price": "",
+            "display_value": null,
+            "advance": true,
+            "option_id": 1491740156,
+            "image_url": null,
+            "hashed_display_value": null,
+            "translations": {
+              "ar": {
+                "option_details_name": "36 - XS"
+              }
+            },
+            "is_default": false,
+            "is_out_of_stock": true
+          }
+        ]
+      }
+    ],
+    "skus": [
+      {
+        "id": 987627988,
+        "price": {
+          "amount": 174,
+          "currency": "SAR"
+        },
+        "regular_price": {
+          "amount": 349,
+          "currency": "SAR"
+        },
+        "cost_price": {
+          "amount": 0,
+          "currency": "SAR"
+        },
+        "sale_price": {
+          "amount": 174,
+          "currency": "SAR"
+        },
+        "has_special_price": true,
+        "stock_quantity": 0,
+        "unlimited_quantity": false,
+        "notify_low": null,
+        "barcode": null,
+        "sku": null,
+        "mpn": null,
+        "gtin": null,
+        "related_options": [
+          1491740156
+        ],
+        "related_option_values": [
+          1063150659
+        ],
+        "weight": null,
+        "weight_type": "kg",
+        "weight_label": "٠٫١ كجم",
+        "is_user_subscribed_to_sku": false,
+        "is_default": false
+      },
+      {
+        "id": 347807957,
+        "price": {
+          "amount": 174,
+          "currency": "SAR"
+        },
+        "regular_price": {
+          "amount": 349,
+          "currency": "SAR"
+        },
+        "cost_price": {
+          "amount": 0,
+          "currency": "SAR"
+        },
+        "sale_price": {
+          "amount": 174,
+          "currency": "SAR"
+        },
+        "has_special_price": true,
+        "stock_quantity": 0,
+        "unlimited_quantity": false,
+        "notify_low": null,
+        "barcode": null,
+        "sku": null,
+        "mpn": null,
+        "gtin": null,
+        "related_options": [
+          1491740156
+        ],
+        "related_option_values": [
+          153387852
+        ],
+        "weight": null,
+        "weight_type": "kg",
+        "weight_label": "٠٫١ كجم",
+        "is_user_subscribed_to_sku": false,
+        "is_default": false
+      },
+      {
+        "id": 1719685078,
+        "price": {
+          "amount": 174,
+          "currency": "SAR"
+        },
+        "regular_price": {
+          "amount": 349,
+          "currency": "SAR"
+        },
+        "cost_price": {
+          "amount": 0,
+          "currency": "SAR"
+        },
+        "sale_price": {
+          "amount": 174,
+          "currency": "SAR"
+        },
+        "has_special_price": true,
+        "stock_quantity": 0,
+        "unlimited_quantity": false,
+        "notify_low": null,
+        "barcode": null,
+        "sku": null,
+        "mpn": null,
+        "gtin": null,
+        "related_options": [
+          1491740156
+        ],
+        "related_option_values": [
+          1526833741
+        ],
+        "weight": null,
+        "weight_type": "kg",
+        "weight_label": "٠٫١ كجم",
+        "is_user_subscribed_to_sku": false,
+        "is_default": false
+      },
+      {
+        "id": 812478167,
+        "price": {
+          "amount": 174,
+          "currency": "SAR"
+        },
+        "regular_price": {
+          "amount": 349,
+          "currency": "SAR"
+        },
+        "cost_price": {
+          "amount": 0,
+          "currency": "SAR"
+        },
+        "sale_price": {
+          "amount": 174,
+          "currency": "SAR"
+        },
+        "has_special_price": true,
+        "stock_quantity": 0,
+        "unlimited_quantity": false,
+        "notify_low": null,
+        "barcode": null,
+        "sku": null,
+        "mpn": null,
+        "gtin": null,
+        "related_options": [
+          1491740156
+        ],
+        "related_option_values": [
+          888062286
+        ],
+        "weight": null,
+        "weight_type": "kg",
+        "weight_label": "٠٫١ كجم",
+        "is_user_subscribed_to_sku": false,
+        "is_default": false
+      },
+      {
+        "id": 38505936,
+        "price": {
+          "amount": 174,
+          "currency": "SAR"
+        },
+        "regular_price": {
+          "amount": 349,
+          "currency": "SAR"
+        },
+        "cost_price": {
+          "amount": 0,
+          "currency": "SAR"
+        },
+        "sale_price": {
+          "amount": 174,
+          "currency": "SAR"
+        },
+        "has_special_price": true,
+        "stock_quantity": 0,
+        "unlimited_quantity": false,
+        "notify_low": null,
+        "barcode": null,
+        "sku": null,
+        "mpn": null,
+        "gtin": null,
+        "related_options": [
+          1491740156
+        ],
+        "related_option_values": [
+          114024527
+        ],
+        "weight": null,
+        "weight_type": "kg",
+        "weight_label": "٠٫١ كجم",
+        "is_user_subscribed_to_sku": false,
+        "is_default": false
+      }
+    ],
+    "categories": [
+      {
+        "id": 2084255006,
+        "name": "الجاكيتات",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/الجاكيتات/c2084255006",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 13,
+        "update_at": "2023-10-23 15:54:59",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      }
+    ],
+    "brand": null,
+    "tags": []
+  }
+},
+{
+  "event": "order.total.price.updated",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:31:03 GMT+0300",
+  "data": {
+    "id": 1973516175,
+    "reference_id": 87512108,
+    "urls": {
+      "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/order/Y7GXy5K8j9Qw1l54q5zaLPkOq4omVNR2",
+      "admin": "https://s.salla.sa/orders/order/Y7GXy5K8j9Qw1l54q5zaLPkOq4omVNR2"
+    },
+    "date": {
+      "date": "2023-10-23 15:55:16.000000",
+      "timezone_type": 3,
+      "timezone": "Asia/Riyadh"
+    },
+    "source": "dashboard",
+    "source_device": "desktop",
+    "source_details": {
+      "type": "dashboard",
+      "value": null,
+      "device": "desktop",
+      "user-agent": "GuzzleHttp/7",
+      "ip": null
+    },
+    "first_complete_at": null,
+    "status": {
+      "id": 566146469,
+      "name": "بإنتظار المراجعة",
+      "slug": "under_review",
+      "customized": {
+        "id": 1868924254,
+        "name": "بإنتظار المراجعة"
+      }
+    },
+    "is_price_quote": false,
+    "payment_method": "bank",
+    "currency": "SAR",
+    "amounts": {
+      "sub_total": {
+        "amount": 35350,
+        "currency": "SAR"
+      },
+      "shipping_cost": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "cash_on_delivery": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "tax": {
+        "percent": "0.00",
+        "amount": {
+          "amount": 0,
+          "currency": "SAR"
+        }
+      },
+      "discounts": [],
+      "total": {
+        "amount": 35350,
+        "currency": "SAR"
+      }
+    },
+    "shipping": null,
+    "shipments": null,
+    "can_cancel": false,
+    "show_weight": false,
+    "can_reorder": false,
+    "is_pending_payment": false,
+    "pending_payment_ends_at": 0,
+    "total_weight": "٣٠ كجم",
+    "rating_link": null,
+    "shipment_branch": [
+      {
+        "id": 1698673639,
+        "name": "الفرع الرئيسي",
+        "status": "active",
+        "is_default": true,
+        "type": {}
+      }
+    ],
+    "customer": {
+      "id": 1550968832,
+      "first_name": "Del",
+      "last_name": "Don",
+      "mobile": 555555555,
+      "mobile_code": "+971",
+      "email": "xdel1010@gmail.com",
+      "urls": {
+        "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/profile",
+        "admin": "https://s.salla.sa/customers/rEwgmvek0zQVGMvOovm18RX9qY7LPNoZ"
+      },
+      "avatar": "https://cdn.assets.salla.network/admin/cp/assets/images/avatar_male.png",
+      "gender": "male",
+      "birthday": {
+        "date": "1983-02-12 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "city": "الرياض",
+      "country": "السعودية",
+      "country_code": "AE",
+      "currency": "SAR",
+      "location": "7575",
+      "updated_at": {
+        "date": "2023-10-31 17:40:17.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "groups": []
+    },
+    "items": [
+      {
+        "id": 1648280942,
+        "name": "فستان",
+        "sku": "15504447-30000023080-",
+        "quantity": 100,
+        "currency": "SAR",
+        "weight": 25,
+        "weight_label": "٢٥ كجم",
+        "amounts": {
+          "price_without_tax": {
+            "amount": 349,
+            "currency": "SAR"
+          },
+          "total_discount": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "tax": {
+            "percent": "0.00",
+            "amount": {
+              "amount": 0,
+              "currency": "SAR"
+            }
+          },
+          "total": {
+            "amount": 34900,
+            "currency": "SAR"
+          }
+        },
+        "notes": "",
+        "product": {
+          "id": 499689613,
+          "type": "product",
+          "promotion": {
+            "title": null,
+            "sub_title": null
+          },
+          "quantity": null,
+          "status": "sale",
+          "is_available": true,
+          "sku": "15504447-30000023080-",
+          "name": "فستان",
+          "price": {
+            "amount": 174,
+            "currency": "SAR"
+          },
+          "sale_price": {
+            "amount": 174,
+            "currency": "SAR"
+          },
+          "currency": "SAR",
+          "url": "https://salla.sa/dev-lfn63dclx2pulxgv/فستان/p499689613",
+          "thumbnail": "https://salla-dev.s3.eu-central-1.amazonaws.com/nWzD/bL3FLXsYnlcjdn2TbeSdXh1y6nhiXWkzg7bMV9Lf.jpg",
+          "has_special_price": true,
+          "regular_price": {
+            "amount": 349,
+            "currency": "SAR"
+          },
+          "calories": null,
+          "mpn": null,
+          "gtin": null,
+          "description": "المقاس36الطول130الكم28.53813028.5401302942130294413029.5",
+          "favorite": null,
+          "features": {
+            "availability_notify": null,
+            "show_rating": true
+          }
+        },
+        "options": [],
+        "images": [],
+        "codes": [],
+        "files": [],
+        "product_reservations": []
+      },
+      {
+        "id": 1683370003,
+        "name": "منتج تجريببي",
+        "sku": "4654654654654",
+        "quantity": 1,
+        "currency": "SAR",
+        "weight": 5,
+        "weight_label": "٥ كجم",
+        "amounts": {
+          "price_without_tax": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "total_discount": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "tax": {
+            "percent": "0.00",
+            "amount": {
+              "amount": 0,
+              "currency": "SAR"
+            }
+          },
+          "total": {
+            "amount": 450,
+            "currency": "SAR"
+          }
+        },
+        "notes": "",
+        "product": {
+          "id": 85420627,
+          "type": "product",
+          "promotion": {
+            "title": null,
+            "sub_title": "خصم  {percent} ( {discount} )"
+          },
+          "quantity": null,
+          "status": "sale",
+          "is_available": true,
+          "sku": "4654654654654",
+          "name": "منتج تجريببي",
+          "price": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "sale_price": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "currency": "SAR",
+          "url": "https://salla.sa/dev-lfn63dclx2pulxgv/test-product/p85420627",
+          "thumbnail": "https://cdn.salla.sa/dPbglp/DnIU97qjiCsSLgcimUbdzTqRtU9nghKl9n3XSKhG.jpg",
+          "has_special_price": true,
+          "regular_price": {
+            "amount": 500,
+            "currency": "SAR"
+          },
+          "calories": null,
+          "mpn": "245324535",
+          "gtin": "53453523",
+          "description": "<p>وصف تجريبي </p><p><img src=\"https://cdn.salla.sa/dPbglp/1xBY0lBjB0aBl5ElRMCPQ8bGrNCRd3u3oecv6xlb.jpg\"></p>",
+          "favorite": null,
+          "features": {
+            "availability_notify": null,
+            "show_rating": true
+          }
+        },
+        "options": [],
+        "images": [],
+        "codes": [],
+        "files": [],
+        "product_reservations": []
+      }
+    ],
+    "bank": {
+      "id": 2052502747,
+      "bank_name": "البنك الأهلي التجاري",
+      "bank_id": 1473353380,
+      "account_name": "Demo Account",
+      "account_number": "000000608010167519",
+      "iban_number": "SA2380000382608010130308",
+      "iban_certificate": null,
+      "status": "active"
+    },
+    "tags": []
+  }
+},
+{
+  "event": "order.updated",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:31:03 GMT+0300",
+  "data": {
+    "id": 1973516175,
+    "reference_id": 87512108,
+    "urls": {
+      "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/order/Y7GXy5K8j9Qw1l54q5zaLPkOq4omVNR2",
+      "admin": "https://s.salla.sa/orders/order/Y7GXy5K8j9Qw1l54q5zaLPkOq4omVNR2"
+    },
+    "date": {
+      "date": "2023-10-23 15:55:16.000000",
+      "timezone_type": 3,
+      "timezone": "Asia/Riyadh"
+    },
+    "source": "dashboard",
+    "source_device": "desktop",
+    "source_details": {
+      "type": "dashboard",
+      "value": null,
+      "device": "desktop",
+      "user-agent": "GuzzleHttp/7",
+      "ip": null
+    },
+    "first_complete_at": null,
+    "status": {
+      "id": 566146469,
+      "name": "بإنتظار المراجعة",
+      "slug": "under_review",
+      "customized": {
+        "id": 1868924254,
+        "name": "بإنتظار المراجعة"
+      }
+    },
+    "is_price_quote": false,
+    "payment_method": "bank",
+    "currency": "SAR",
+    "amounts": {
+      "sub_total": {
+        "amount": 35350,
+        "currency": "SAR"
+      },
+      "shipping_cost": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "cash_on_delivery": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "tax": {
+        "percent": "0.00",
+        "amount": {
+          "amount": 0,
+          "currency": "SAR"
+        }
+      },
+      "discounts": [],
+      "total": {
+        "amount": 35350,
+        "currency": "SAR"
+      }
+    },
+    "shipping": null,
+    "shipments": null,
+    "can_cancel": false,
+    "show_weight": false,
+    "can_reorder": false,
+    "is_pending_payment": false,
+    "pending_payment_ends_at": 0,
+    "total_weight": "٣٠ كجم",
+    "rating_link": null,
+    "shipment_branch": [
+      {
+        "id": 1698673639,
+        "name": "الفرع الرئيسي",
+        "status": "active",
+        "is_default": true,
+        "type": {}
+      }
+    ],
+    "customer": {
+      "id": 1550968832,
+      "first_name": "Del",
+      "last_name": "Don",
+      "mobile": 555555555,
+      "mobile_code": "+971",
+      "email": "xdel1010@gmail.com",
+      "urls": {
+        "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/profile",
+        "admin": "https://s.salla.sa/customers/rEwgmvek0zQVGMvOovm18RX9qY7LPNoZ"
+      },
+      "avatar": "https://cdn.assets.salla.network/admin/cp/assets/images/avatar_male.png",
+      "gender": "male",
+      "birthday": {
+        "date": "1983-02-12 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "city": "الرياض",
+      "country": "السعودية",
+      "country_code": "AE",
+      "currency": "SAR",
+      "location": "7575",
+      "updated_at": {
+        "date": "2023-10-31 17:40:17.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "groups": []
+    },
+    "items": [
+      {
+        "id": 1648280942,
+        "name": "فستان",
+        "sku": "15504447-30000023080-",
+        "quantity": 100,
+        "currency": "SAR",
+        "weight": 25,
+        "weight_label": "٢٥ كجم",
+        "amounts": {
+          "price_without_tax": {
+            "amount": 349,
+            "currency": "SAR"
+          },
+          "total_discount": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "tax": {
+            "percent": "0.00",
+            "amount": {
+              "amount": 0,
+              "currency": "SAR"
+            }
+          },
+          "total": {
+            "amount": 34900,
+            "currency": "SAR"
+          }
+        },
+        "notes": "",
+        "product": {
+          "id": 499689613,
+          "type": "product",
+          "promotion": {
+            "title": null,
+            "sub_title": null
+          },
+          "quantity": null,
+          "status": "sale",
+          "is_available": true,
+          "sku": "15504447-30000023080-",
+          "name": "فستان",
+          "price": {
+            "amount": 174,
+            "currency": "SAR"
+          },
+          "sale_price": {
+            "amount": 174,
+            "currency": "SAR"
+          },
+          "currency": "SAR",
+          "url": "https://salla.sa/dev-lfn63dclx2pulxgv/فستان/p499689613",
+          "thumbnail": "https://salla-dev.s3.eu-central-1.amazonaws.com/nWzD/bL3FLXsYnlcjdn2TbeSdXh1y6nhiXWkzg7bMV9Lf.jpg",
+          "has_special_price": true,
+          "regular_price": {
+            "amount": 349,
+            "currency": "SAR"
+          },
+          "calories": null,
+          "mpn": null,
+          "gtin": null,
+          "description": "المقاس36الطول130الكم28.53813028.5401302942130294413029.5",
+          "favorite": null,
+          "features": {
+            "availability_notify": null,
+            "show_rating": true
+          }
+        },
+        "options": [],
+        "images": [],
+        "codes": [],
+        "files": [],
+        "product_reservations": []
+      },
+      {
+        "id": 1683370003,
+        "name": "منتج تجريببي",
+        "sku": "4654654654654",
+        "quantity": 1,
+        "currency": "SAR",
+        "weight": 5,
+        "weight_label": "٥ كجم",
+        "amounts": {
+          "price_without_tax": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "total_discount": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "tax": {
+            "percent": "0.00",
+            "amount": {
+              "amount": 0,
+              "currency": "SAR"
+            }
+          },
+          "total": {
+            "amount": 450,
+            "currency": "SAR"
+          }
+        },
+        "notes": "",
+        "product": {
+          "id": 85420627,
+          "type": "product",
+          "promotion": {
+            "title": null,
+            "sub_title": "خصم  {percent} ( {discount} )"
+          },
+          "quantity": null,
+          "status": "sale",
+          "is_available": true,
+          "sku": "4654654654654",
+          "name": "منتج تجريببي",
+          "price": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "sale_price": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "currency": "SAR",
+          "url": "https://salla.sa/dev-lfn63dclx2pulxgv/test-product/p85420627",
+          "thumbnail": "https://cdn.salla.sa/dPbglp/DnIU97qjiCsSLgcimUbdzTqRtU9nghKl9n3XSKhG.jpg",
+          "has_special_price": true,
+          "regular_price": {
+            "amount": 500,
+            "currency": "SAR"
+          },
+          "calories": null,
+          "mpn": "245324535",
+          "gtin": "53453523",
+          "description": "<p>وصف تجريبي </p><p><img src=\"https://cdn.salla.sa/dPbglp/1xBY0lBjB0aBl5ElRMCPQ8bGrNCRd3u3oecv6xlb.jpg\"></p>",
+          "favorite": null,
+          "features": {
+            "availability_notify": null,
+            "show_rating": true
+          }
+        },
+        "options": [],
+        "images": [],
+        "codes": [],
+        "files": [],
+        "product_reservations": []
+      }
+    ],
+    "bank": {
+      "id": 2052502747,
+      "bank_name": "البنك الأهلي التجاري",
+      "bank_id": 1473353380,
+      "account_name": "Demo Account",
+      "account_number": "000000608010167519",
+      "iban_number": "SA2380000382608010130308",
+      "iban_certificate": null,
+      "status": "active"
+    },
+    "tags": []
+  }
+},
+{
+  "event": "order.products.updated",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:31:03 GMT+0300",
+  "data": {
+    "id": 1973516175,
+    "reference_id": 87512108,
+    "urls": {
+      "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/order/Y7GXy5K8j9Qw1l54q5zaLPkOq4omVNR2",
+      "admin": "https://s.salla.sa/orders/order/Y7GXy5K8j9Qw1l54q5zaLPkOq4omVNR2"
+    },
+    "date": {
+      "date": "2023-10-23 15:55:16.000000",
+      "timezone_type": 3,
+      "timezone": "Asia/Riyadh"
+    },
+    "source": "dashboard",
+    "source_device": "desktop",
+    "source_details": {
+      "type": "dashboard",
+      "value": null,
+      "device": "desktop",
+      "user-agent": "GuzzleHttp/7",
+      "ip": null
+    },
+    "first_complete_at": null,
+    "status": {
+      "id": 566146469,
+      "name": "بإنتظار المراجعة",
+      "slug": "under_review",
+      "customized": {
+        "id": 1868924254,
+        "name": "بإنتظار المراجعة"
+      }
+    },
+    "is_price_quote": false,
+    "payment_method": "bank",
+    "currency": "SAR",
+    "amounts": {
+      "sub_total": {
+        "amount": 35350,
+        "currency": "SAR"
+      },
+      "shipping_cost": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "cash_on_delivery": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "tax": {
+        "percent": "0.00",
+        "amount": {
+          "amount": 0,
+          "currency": "SAR"
+        }
+      },
+      "discounts": [],
+      "total": {
+        "amount": 35350,
+        "currency": "SAR"
+      }
+    },
+    "shipping": null,
+    "shipments": null,
+    "can_cancel": false,
+    "show_weight": false,
+    "can_reorder": false,
+    "is_pending_payment": false,
+    "pending_payment_ends_at": 0,
+    "total_weight": "٣٠ كجم",
+    "rating_link": null,
+    "shipment_branch": [
+      {
+        "id": 1698673639,
+        "name": "الفرع الرئيسي",
+        "status": "active",
+        "is_default": true,
+        "type": {}
+      }
+    ],
+    "customer": {
+      "id": 1550968832,
+      "first_name": "Del",
+      "last_name": "Don",
+      "mobile": 555555555,
+      "mobile_code": "+971",
+      "email": "xdel1010@gmail.com",
+      "urls": {
+        "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/profile",
+        "admin": "https://s.salla.sa/customers/rEwgmvek0zQVGMvOovm18RX9qY7LPNoZ"
+      },
+      "avatar": "https://cdn.assets.salla.network/admin/cp/assets/images/avatar_male.png",
+      "gender": "male",
+      "birthday": {
+        "date": "1983-02-12 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "city": "الرياض",
+      "country": "السعودية",
+      "country_code": "AE",
+      "currency": "SAR",
+      "location": "7575",
+      "updated_at": {
+        "date": "2023-10-31 17:40:17.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "groups": []
+    },
+    "items": [
+      {
+        "id": 1648280942,
+        "name": "فستان",
+        "sku": "15504447-30000023080-",
+        "quantity": 100,
+        "currency": "SAR",
+        "weight": 25,
+        "weight_label": "٢٥ كجم",
+        "amounts": {
+          "price_without_tax": {
+            "amount": 349,
+            "currency": "SAR"
+          },
+          "total_discount": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "tax": {
+            "percent": "0.00",
+            "amount": {
+              "amount": 0,
+              "currency": "SAR"
+            }
+          },
+          "total": {
+            "amount": 34900,
+            "currency": "SAR"
+          }
+        },
+        "notes": "",
+        "product": {
+          "id": 499689613,
+          "type": "product",
+          "promotion": {
+            "title": null,
+            "sub_title": null
+          },
+          "quantity": null,
+          "status": "sale",
+          "is_available": true,
+          "sku": "15504447-30000023080-",
+          "name": "فستان",
+          "price": {
+            "amount": 174,
+            "currency": "SAR"
+          },
+          "sale_price": {
+            "amount": 174,
+            "currency": "SAR"
+          },
+          "currency": "SAR",
+          "url": "https://salla.sa/dev-lfn63dclx2pulxgv/فستان/p499689613",
+          "thumbnail": "https://salla-dev.s3.eu-central-1.amazonaws.com/nWzD/bL3FLXsYnlcjdn2TbeSdXh1y6nhiXWkzg7bMV9Lf.jpg",
+          "has_special_price": true,
+          "regular_price": {
+            "amount": 349,
+            "currency": "SAR"
+          },
+          "calories": null,
+          "mpn": null,
+          "gtin": null,
+          "description": "المقاس36الطول130الكم28.53813028.5401302942130294413029.5",
+          "favorite": null,
+          "features": {
+            "availability_notify": null,
+            "show_rating": true
+          }
+        },
+        "options": [],
+        "images": [],
+        "codes": [],
+        "files": [],
+        "product_reservations": []
+      },
+      {
+        "id": 1683370003,
+        "name": "منتج تجريببي",
+        "sku": "4654654654654",
+        "quantity": 1,
+        "currency": "SAR",
+        "weight": 5,
+        "weight_label": "٥ كجم",
+        "amounts": {
+          "price_without_tax": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "total_discount": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "tax": {
+            "percent": "0.00",
+            "amount": {
+              "amount": 0,
+              "currency": "SAR"
+            }
+          },
+          "total": {
+            "amount": 450,
+            "currency": "SAR"
+          }
+        },
+        "notes": "",
+        "product": {
+          "id": 85420627,
+          "type": "product",
+          "promotion": {
+            "title": null,
+            "sub_title": "خصم  {percent} ( {discount} )"
+          },
+          "quantity": null,
+          "status": "sale",
+          "is_available": true,
+          "sku": "4654654654654",
+          "name": "منتج تجريببي",
+          "price": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "sale_price": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "currency": "SAR",
+          "url": "https://salla.sa/dev-lfn63dclx2pulxgv/test-product/p85420627",
+          "thumbnail": "https://cdn.salla.sa/dPbglp/DnIU97qjiCsSLgcimUbdzTqRtU9nghKl9n3XSKhG.jpg",
+          "has_special_price": true,
+          "regular_price": {
+            "amount": 500,
+            "currency": "SAR"
+          },
+          "calories": null,
+          "mpn": "245324535",
+          "gtin": "53453523",
+          "description": "<p>وصف تجريبي </p><p><img src=\"https://cdn.salla.sa/dPbglp/1xBY0lBjB0aBl5ElRMCPQ8bGrNCRd3u3oecv6xlb.jpg\"></p>",
+          "favorite": null,
+          "features": {
+            "availability_notify": null,
+            "show_rating": true
+          }
+        },
+        "options": [],
+        "images": [],
+        "codes": [],
+        "files": [],
+        "product_reservations": []
+      }
+    ],
+    "bank": {
+      "id": 2052502747,
+      "bank_name": "البنك الأهلي التجاري",
+      "bank_id": 1473353380,
+      "account_name": "Demo Account",
+      "account_number": "000000608010167519",
+      "iban_number": "SA2380000382608010130308",
+      "iban_certificate": null,
+      "status": "active"
+    },
+    "tags": []
+  }
+},
+
+{
+  "event": "order.status.updated",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:36:37 GMT+0300",
+  "data": {
+    "id": 1743560629,
+    "status": "قيد التنفيذ",
+    "customized": {
+      "id": 960668767,
+      "name": "قيد التنفيذ",
+      "type": "custom",
+      "slug": "in_progress",
+      "original": {
+        "id": 1939592358,
+        "name": "قيد التنفيذ"
+      },
+      "parent": null
+    },
+    "note": null,
+    "created_at": {
+      "date": "2023-11-01 03:36:37.000000",
+      "timezone_type": 3,
+      "timezone": "Asia/Riyadh"
+    },
+    "order": {
+      "id": 1946528077,
+      "reference_id": 88683754,
+      "urls": {
+        "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/order/gdpNzmxoKnvLW0x7rVqWyZR5DBAqwPl2",
+        "admin": "https://s.salla.sa/orders/order/gdpNzmxoKnvLW0x7rVqWyZR5DBAqwPl2"
+      },
+      "date": {
+        "date": "2023-11-01 03:36:37.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "source": "dashboard",
+      "source_device": "desktop",
+      "source_details": {
+        "type": "dashboard",
+        "value": null,
+        "device": "desktop",
+        "user-agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
+        "ip": null
+      },
+      "first_complete_at": null,
+      "status": {
+        "id": 1939592358,
+        "name": "قيد التنفيذ",
+        "slug": "in_progress",
+        "customized": {
+          "id": 960668767,
+          "name": "قيد التنفيذ"
+        }
+      },
+      "is_price_quote": false,
+      "payment_method": "cod",
+      "currency": "SAR",
+      "amounts": {
+        "sub_total": {
+          "amount": 624,
+          "currency": "SAR"
+        },
+        "shipping_cost": {
+          "amount": 50,
+          "currency": "SAR"
+        },
+        "cash_on_delivery": {
+          "amount": 0,
+          "currency": "SAR"
+        },
+        "tax": {
+          "percent": "0.00",
+          "amount": {
+            "amount": 0,
+            "currency": "SAR"
+          }
+        },
+        "discounts": [],
+        "total": {
+          "amount": 674,
+          "currency": "SAR"
+        }
+      },
+      "shipping": {
+        "id": 164104937,
+        "app_id": null,
+        "company": "Dev Company",
+        "logo": "",
+        "receiver": {
+          "name": "ahmed saber",
+          "email": "",
+          "phone": "201022222222"
+        },
+        "shipper": {
+          "name": "الفرع الرئيسي",
+          "company_name": "متجر تجريبي",
+          "email": "",
+          "phone": "966920034002"
+        },
+        "pickup_address": {
+          "country": "السعودية",
+          "country_code": "SA",
+          "city": "Mecca",
+          "shipping_address": "Mecca,السعودية",
+          "street_number": null,
+          "block": null,
+          "postal_code": null,
+          "geo_coordinates": {
+            "lat": 21.3825905096851,
+            "lng": 39.77319103068542
+          }
+        },
+        "address": {
+          "country": "SA",
+          "country_code": "SA",
+          "city": "الرياض",
+          "shipping_address": " شارع a233، الحي riads 128777،, a1233,, الرياض, السعودية",
+          "street_number": "a233",
+          "block": "riads",
+          "postal_code": "128777",
+          "geo_coordinates": {
+            "lat": 0,
+            "lng": 0
+          }
+        },
+        "shipment": {
+          "id": "0",
+          "pickup_id": null,
+          "tracking_link": "0",
+          "label": []
+        },
+        "policy_options": [],
+        "shipment_reference": 297981888,
+        "branch_id": 1698673639
+      },
+      "shipments": [
+        {
+          "id": 297981888,
+          "created_at": null,
+          "type": "shipment",
+          "courier_id": 164104937,
+          "courier_name": "Dev Company",
+          "courier_logo": "",
+          "shipping_number": null,
+          "tracking_number": null,
+          "pickup_id": null,
+          "trackable": false,
+          "tracking_link": null,
+          "label": null,
+          "payment_method": "cod",
+          "source": "dashboard",
+          "status": "pending",
+          "total": {
+            "amount": 674,
+            "currency": "SAR"
+          },
+          "cash_on_delivery": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "is_international": false,
+          "total_weight": {
+            "value": 5.1,
+            "units": "kg"
+          },
+          "packages": [
+            {
+              "item_id": 1403537896,
+              "external_id": null,
+              "name": "منتج تجريببي",
+              "sku": "4654654654654",
+              "price": {
+                "amount": 450,
+                "currency": "SAR"
+              },
+              "quantity": 1,
+              "weight": {
+                "value": 5,
+                "units": "kg"
+              }
+            },
+            {
+              "item_id": 560319693,
+              "external_id": null,
+              "name": "فستان",
+              "sku": "",
+              "price": {
+                "amount": 174,
+                "currency": "SAR"
+              },
+              "quantity": 1,
+              "weight": {
+                "value": 0.1,
+                "units": "kg"
+              }
+            }
+          ],
+          "ship_from": {
+            "type": "branch",
+            "name": "الفرع الرئيسي",
+            "email": "",
+            "phone": "966920034002",
+            "country": "السعودية",
+            "country_id": 1473353380,
+            "country_code": "SA",
+            "city": "Mecca",
+            "city_id": 1939592358,
+            "address_line": "Mecca,السعودية",
+            "street_number": null,
+            "block": null,
+            "postal_code": null,
+            "latitude": 21.3825905096851,
+            "longitude": 39.77319103068542,
+            "branch_id": 1698673639
+          },
+          "ship_to": {
+            "type": "address",
+            "name": "ahmed saber",
+            "email": "",
+            "phone": "201022222222",
+            "country": "السعودية",
+            "country_id": 1473353380,
+            "country_code": "SA",
+            "city": "Riyadh",
+            "city_id": 1473353380,
+            "address_line": " شارع a233، الحي riads 128777،, a1233,, الرياض, السعودية",
+            "street_number": "a233",
+            "block": "riads",
+            "postal_code": "128777",
+            "latitude": 0,
+            "longitude": 0
+          },
+          "meta": {
+            "app_id": 0,
+            "policy_options": []
+          }
+        }
+      ],
+      "can_cancel": false,
+      "show_weight": false,
+      "can_reorder": false,
+      "is_pending_payment": false,
+      "pending_payment_ends_at": 172798,
+      "total_weight": "٥٫١ كجم",
+      "rating_link": null,
+      "shipment_branch": [
+        {
+          "id": 1698673639,
+          "name": "الفرع الرئيسي",
+          "status": "active",
+          "is_default": true,
+          "type": {}
+        }
+      ],
+      "customer": {
+        "id": 30995994,
+        "name": "ahmed saber",
+        "mobile": "+201022222222",
+        "email": "hesham@exclusivemarketers.com",
+        "avatar": "https://cdn.assets.salla.network/admin/cp/assets/images/avatar_male.png",
+        "country": "مصر",
+        "city": ""
+      },
+      "items": [
+        {
+          "id": 1403537896,
+          "product_id": 85420627,
+          "name": "منتج تجريببي",
+          "sku": "4654654654654",
+          "quantity": 1,
+          "weight": 5,
+          "amounts": {
+            "price_without_tax": {
+              "amount": 450,
+              "currency": "SAR"
+            },
+            "total_discount": {
+              "amount": 0,
+              "currency": "SAR"
+            },
+            "tax": {
+              "percent": "0.00",
+              "amount": {
+                "amount": 0,
+                "currency": "SAR"
+              }
+            },
+            "total": {
+              "amount": 450,
+              "currency": "SAR"
+            }
+          }
+        },
+        {
+          "id": 560319693,
+          "product_id": 853346026,
+          "name": "فستان",
+          "sku": "",
+          "quantity": 1,
+          "weight": 0.1,
+          "amounts": {
+            "price_without_tax": {
+              "amount": 174,
+              "currency": "SAR"
+            },
+            "total_discount": {
+              "amount": 0,
+              "currency": "SAR"
+            },
+            "tax": {
+              "percent": "0.00",
+              "amount": {
+                "amount": 0,
+                "currency": "SAR"
+              }
+            },
+            "total": {
+              "amount": 174,
+              "currency": "SAR"
+            }
+          }
+        }
+      ],
+      "total": {
+        "amount": 674,
+        "currency": "SAR"
+      }
+    }
+  }
+},
+
+{
+  "event": "order.created",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:36:38 GMT+0300",
+  "data": {
+    "id": 1946528077,
+    "reference_id": 88683754,
+    "urls": {
+      "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/order/gdpNzmxoKnvLW0x7rVqWyZR5DBAqwPl2",
+      "admin": "https://s.salla.sa/orders/order/gdpNzmxoKnvLW0x7rVqWyZR5DBAqwPl2"
+    },
+    "date": {
+      "date": "2023-11-01 03:36:37.000000",
+      "timezone_type": 3,
+      "timezone": "Asia/Riyadh"
+    },
+    "source": "dashboard",
+    "source_device": "desktop",
+    "source_details": {
+      "type": "dashboard",
+      "value": null,
+      "device": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
+      "ip": null
+    },
+    "first_complete_at": null,
+    "status": {
+      "id": 1939592358,
+      "name": "قيد التنفيذ",
+      "slug": "in_progress",
+      "customized": {
+        "id": 960668767,
+        "name": "قيد التنفيذ"
+      }
+    },
+    "is_price_quote": false,
+    "payment_method": "cod",
+    "currency": "SAR",
+    "amounts": {
+      "sub_total": {
+        "amount": 624,
+        "currency": "SAR"
+      },
+      "shipping_cost": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "cash_on_delivery": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "tax": {
+        "percent": "0.00",
+        "amount": {
+          "amount": 0,
+          "currency": "SAR"
+        }
+      },
+      "discounts": [],
+      "total": {
+        "amount": 674,
+        "currency": "SAR"
+      }
+    },
+    "shipping": {
+      "id": 164104937,
+      "app_id": null,
+      "company": "Dev Company",
+      "logo": "",
+      "receiver": {
+        "name": "ahmed saber",
+        "email": "",
+        "phone": "201022222222"
+      },
+      "shipper": {
+        "name": "الفرع الرئيسي",
+        "company_name": "متجر تجريبي",
+        "email": "",
+        "phone": "966920034002"
+      },
+      "pickup_address": {
+        "country": "السعودية",
+        "country_code": "SA",
+        "city": "Mecca",
+        "shipping_address": "Mecca,السعودية",
+        "street_number": null,
+        "block": null,
+        "postal_code": null,
+        "geo_coordinates": {
+          "lat": 21.3825905096851,
+          "lng": 39.77319103068542
+        }
+      },
+      "address": {
+        "country": "SA",
+        "country_code": "SA",
+        "city": "الرياض",
+        "shipping_address": " شارع a233، الحي riads 128777،, a1233,, الرياض, السعودية",
+        "street_number": "a233",
+        "block": "riads",
+        "postal_code": "128777",
+        "geo_coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "shipment": {
+        "id": "0",
+        "pickup_id": null,
+        "tracking_link": "0",
+        "label": []
+      },
+      "policy_options": [],
+      "shipment_reference": 297981888,
+      "branch_id": 1698673639
+    },
+    "shipments": [
+      {
+        "id": 297981888,
+        "created_at": null,
+        "type": "shipment",
+        "courier_id": 164104937,
+        "courier_name": "Dev Company",
+        "courier_logo": "",
+        "shipping_number": null,
+        "tracking_number": null,
+        "pickup_id": null,
+        "trackable": false,
+        "tracking_link": null,
+        "label": null,
+        "payment_method": "cod",
+        "source": "dashboard",
+        "status": "",
+        "total": {
+          "amount": 674,
+          "currency": "SAR"
+        },
+        "cash_on_delivery": {
+          "amount": 0,
+          "currency": "SAR"
+        },
+        "is_international": false,
+        "total_weight": {
+          "value": 5.1,
+          "units": "kg"
+        },
+        "packages": [
+          {
+            "item_id": 1403537896,
+            "external_id": null,
+            "name": "منتج تجريببي",
+            "sku": "4654654654654",
+            "price": {
+              "amount": 450,
+              "currency": "SAR"
+            },
+            "quantity": 1,
+            "weight": {
+              "value": 5,
+              "units": "kg"
+            }
+          },
+          {
+            "item_id": 560319693,
+            "external_id": null,
+            "name": "فستان",
+            "sku": "",
+            "price": {
+              "amount": 174,
+              "currency": "SAR"
+            },
+            "quantity": 1,
+            "weight": {
+              "value": 0.1,
+              "units": "kg"
+            }
+          }
+        ],
+        "ship_from": {
+          "type": "branch",
+          "name": "الفرع الرئيسي",
+          "email": "",
+          "phone": "966920034002",
+          "country": "السعودية",
+          "country_id": 1473353380,
+          "country_code": "SA",
+          "city": "Mecca",
+          "city_id": 1939592358,
+          "address_line": "Mecca,السعودية",
+          "street_number": null,
+          "block": null,
+          "postal_code": null,
+          "latitude": 21.3825905096851,
+          "longitude": 39.77319103068542,
+          "branch_id": 1698673639
+        },
+        "ship_to": {
+          "type": "address",
+          "name": "ahmed saber",
+          "email": "",
+          "phone": "201022222222",
+          "country": "السعودية",
+          "country_id": 1473353380,
+          "country_code": "SA",
+          "city": "Riyadh",
+          "city_id": 1473353380,
+          "address_line": " شارع a233، الحي riads 128777،, a1233,, الرياض, السعودية",
+          "street_number": "a233",
+          "block": "riads",
+          "postal_code": "128777",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "meta": {
+          "app_id": 0,
+          "policy_options": []
+        }
+      }
+    ],
+    "can_cancel": false,
+    "show_weight": false,
+    "can_reorder": false,
+    "is_pending_payment": false,
+    "pending_payment_ends_at": 172798,
+    "total_weight": "٥٫١ كجم",
+    "rating_link": null,
+    "shipment_branch": [
+      {
+        "id": 1698673639,
+        "name": "الفرع الرئيسي",
+        "status": "active",
+        "is_default": true,
+        "type": {}
+      }
+    ],
+    "customer": {
+      "id": 30995994,
+      "first_name": "ahmed",
+      "last_name": "saber",
+      "mobile": 1022222222,
+      "mobile_code": "+20",
+      "email": "hesham@exclusivemarketers.com",
+      "urls": {
+        "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/profile",
+        "admin": "https://s.salla.sa/customers/bRowq4JLlxVenM84r0LMvzOPYXyjGpQ0"
+      },
+      "avatar": "https://cdn.assets.salla.network/admin/cp/assets/images/avatar_male.png",
+      "gender": "male",
+      "birthday": {
+        "date": "1980-11-21 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "city": "",
+      "country": "مصر",
+      "country_code": "EG",
+      "currency": "SAR",
+      "location": "",
+      "updated_at": {
+        "date": "2023-11-01 03:34:35.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "groups": []
+    },
+    "items": [
+      {
+        "id": 1403537896,
+        "name": "منتج تجريببي",
+        "sku": "4654654654654",
+        "quantity": 1,
+        "currency": "SAR",
+        "weight": 5,
+        "weight_label": "٥ كجم",
+        "amounts": {
+          "price_without_tax": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "total_discount": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "tax": {
+            "percent": "0.00",
+            "amount": {
+              "amount": 0,
+              "currency": "SAR"
+            }
+          },
+          "total": {
+            "amount": 450,
+            "currency": "SAR"
+          }
+        },
+        "notes": "",
+        "product": {
+          "id": 85420627,
+          "type": "product",
+          "promotion": {
+            "title": null,
+            "sub_title": "خصم  {percent} ( {discount} )"
+          },
+          "quantity": null,
+          "status": "sale",
+          "is_available": true,
+          "sku": "4654654654654",
+          "name": "منتج تجريببي",
+          "price": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "sale_price": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "currency": "SAR",
+          "url": "https://salla.sa/dev-lfn63dclx2pulxgv/test-product/p85420627",
+          "thumbnail": "https://cdn.salla.sa/dPbglp/DnIU97qjiCsSLgcimUbdzTqRtU9nghKl9n3XSKhG.jpg",
+          "has_special_price": true,
+          "regular_price": {
+            "amount": 500,
+            "currency": "SAR"
+          },
+          "calories": null,
+          "mpn": "245324535",
+          "gtin": "53453523",
+          "description": "<p>وصف تجريبي </p><p><img src=\"https://cdn.salla.sa/dPbglp/1xBY0lBjB0aBl5ElRMCPQ8bGrNCRd3u3oecv6xlb.jpg\"></p>",
+          "favorite": null,
+          "features": {
+            "availability_notify": null,
+            "show_rating": true
+          }
+        },
+        "options": [],
+        "images": [],
+        "codes": [],
+        "files": [],
+        "product_reservations": []
+      },
+      {
+        "id": 560319693,
+        "name": "فستان",
+        "sku": "",
+        "quantity": 1,
+        "currency": "SAR",
+        "weight": 0.1,
+        "weight_label": "٠٫١ كجم",
+        "amounts": {
+          "price_without_tax": {
+            "amount": 174,
+            "currency": "SAR"
+          },
+          "total_discount": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "tax": {
+            "percent": "0.00",
+            "amount": {
+              "amount": 0,
+              "currency": "SAR"
+            }
+          },
+          "total": {
+            "amount": 174,
+            "currency": "SAR"
+          }
+        },
+        "notes": "",
+        "product": {
+          "id": 853346026,
+          "type": "product",
+          "promotion": {
+            "title": null,
+            "sub_title": null
+          },
+          "quantity": null,
+          "status": "hidden",
+          "is_available": false,
+          "sku": "",
+          "name": "فستان",
+          "price": {
+            "amount": 174,
+            "currency": "SAR"
+          },
+          "sale_price": {
+            "amount": 174,
+            "currency": "SAR"
+          },
+          "currency": "SAR",
+          "url": "https://salla.sa/dev-lfn63dclx2pulxgv/فستان/p853346026",
+          "thumbnail": "https://cdn.salla.sa/dPbglp/qyVMTrwKObEqjm1A6kudLsBkzXkJQlVKGVF0Fg3F.jpg",
+          "has_special_price": true,
+          "regular_price": {
+            "amount": 390,
+            "currency": "SAR"
+          },
+          "calories": null,
+          "mpn": null,
+          "gtin": null,
+          "description": "المقاس36الطول130الكم28.53813028.5401302942130294413029.5",
+          "favorite": null,
+          "features": {
+            "availability_notify": null,
+            "show_rating": true
+          }
+        },
+        "options": [
+          {
+            "id": 1040468682,
+            "product_option_id": 1491740156,
+            "name": "المقاس",
+            "type": "radio",
+            "value": {
+              "id": 1063150659,
+              "name": "44 - XL",
+              "price": {
+                "amount": 0,
+                "currency": "SAR"
+              }
+            }
+          }
+        ],
+        "images": [],
+        "codes": [],
+        "files": [],
+        "product_reservations": []
+      }
+    ],
+    "bank": null,
+    "tags": []
+  }
+},
+{
+  "event": "customer.updated",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:39:43 GMT+0300",
+  "data": {
+    "id": 30995994,
+    "first_name": "ahmed",
+    "last_name": "saber",
+    "mobile": 1022222222,
+    "mobile_code": "+20",
+    "email": "saberx@gmail.com",
+    "urls": {
+      "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/profile",
+      "admin": "https://s.salla.sa/customers/bRowq4JLlxVenM84r0LMvzOPYXyjGpQ0"
+    },
+    "avatar": "https://cdn.assets.salla.network/admin/cp/assets/images/avatar_male.png",
+    "gender": "male",
+    "birthday": {
+      "date": "1980-11-21 00:00:00.000000",
+      "timezone_type": 3,
+      "timezone": "Asia/Riyadh"
+    },
+    "city": "",
+    "country": "مصر",
+    "country_code": "EG",
+    "currency": "SAR",
+    "location": "",
+    "updated_at": {
+      "date": "2023-11-01 03:39:43.000000",
+      "timezone_type": 3,
+      "timezone": "Asia/Riyadh"
+    },
+    "groups": [],
+    "source": {
+      "device": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
+      "ip": "197.120.92.172"
+    }
+  }
+},
+{
+  "event": "customer.created",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:34:35 GMT+0300",
+  "data": {
+    "id": 30995994,
+    "first_name": "ahmed",
+    "last_name": "saber",
+    "mobile": 1022222222,
+    "mobile_code": "+20",
+    "email": "hesham@exclusivemarketers.com",
+    "urls": {
+      "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/profile",
+      "admin": "https://s.salla.sa/customers/bRowq4JLlxVenM84r0LMvzOPYXyjGpQ0"
+    },
+    "avatar": "https://cdn.assets.salla.network/admin/cp/assets/images/avatar_male.png",
+    "gender": "male",
+    "birthday": null,
+    "city": "",
+    "country": "مصر",
+    "country_code": "EG",
+    "currency": "SAR",
+    "location": "",
+    "updated_at": {
+      "date": "2023-06-06 15:47:09.000000",
+      "timezone_type": 3,
+      "timezone": "Asia/Riyadh"
+    },
+    "groups": [],
+    "source": {
+      "device": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
+      "ip": "197.120.92.172"
+    }
+  }
+},
+{
+  "event": "product.updated",
+  "merchant": 2023641241,
+  "created_at": "Mon Oct 30 2023 14:43:11 GMT+0300",
+  "data": {
+    "id": 2145963588,
+    "promotion": {
+      "title": null,
+      "sub_title": null
+    },
+    "sku": "SR213",
+    "mpn": "",
+    "gtin": "",
+    "type": "product",
+    "name": "كرسي مكتبي بتصميم عصري",
+    "short_link_code": "lGPNYjW",
+    "urls": {
+      "customer": "https://homeksa-art.com/en/كرسي-مكتبي-بتصميم-عصري/p2145963588",
+      "admin": "https://s.salla.sa/products/2145963588"
+    },
+    "price": {
+      "amount": 643,
+      "currency": "SAR"
+    },
+    "taxed_price": {
+      "amount": 643,
+      "currency": "SAR"
+    },
+    "pre_tax_price": {
+      "amount": 643,
+      "currency": "SAR"
+    },
+    "tax": {
+      "amount": 0,
+      "currency": "SAR"
+    },
+    "description": "",
+    "quantity": 10,
+    "status": "sale",
+    "is_available": true,
+    "views": 0,
+    "sale_price": {
+      "amount": 0,
+      "currency": "SAR"
+    },
+    "sale_end": null,
+    "require_shipping": true,
+    "cost_price": "",
+    "weight": 8,
+    "weight_type": "kg",
+    "with_tax": true,
+    "url": "https://homeksa-art.com/en/كرسي-مكتبي-بتصميم-عصري/p2145963588",
+    "main_image": "https://cdn.salla.sa/xwWlv/5KFiaLyxNTk6hKQYp6PCTlUCBKXXX3TEdlIZpPQ7.jpg",
+    "images": [
+      {
+        "id": 791134743,
+        "url": "https://cdn.salla.sa/xwWlv/IuSI61kwWVeCkFr3WcxmwZUzSpShcRiDbtQ9Vwxk.jpg",
+        "main": true,
+        "three_d_image_url": "",
+        "alt": "كرسي مكتبي بتصميم عصري",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      },
+      {
+        "id": 58557461,
+        "url": "https://cdn.salla.sa/xwWlv/g0uyeTf0H5jvB0dPl3RJZwznxJrPIVGHEknCUl0r.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "كرسي مكتبي بتصميم عصري",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      },
+      {
+        "id": 1989365267,
+        "url": "https://cdn.salla.sa/xwWlv/3rkbbfGLxKHIY2uW0vDzCoh4jZ3jAWqi0TupztxR.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "كرسي مكتبي بتصميم عصري",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      },
+      {
+        "id": 1081634076,
+        "url": "https://cdn.salla.sa/xwWlv/HuCMGKaItiyUQelp2kmCr9LwLQ9Zm4hZvs2Jzuek.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "كرسي مكتبي بتصميم عصري",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      },
+      {
+        "id": 1814276894,
+        "url": "https://cdn.salla.sa/xwWlv/xgslfEY0RYQhklszlM4qEre2LZGeon9O68iVFGeU.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "كرسي مكتبي بتصميم عصري",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      },
+      {
+        "id": 198568216,
+        "url": "https://cdn.salla.sa/xwWlv/mOCHJY96XlQ3DFk9javCfIBuNQH1yXHBVmDykQ7N.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "كرسي مكتبي بتصميم عصري",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      }
+    ],
+    "sold_quantity": 0,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "rate": 0
+    },
+    "regular_price": {
+      "amount": 643,
+      "currency": "SAR"
+    },
+    "max_items_per_user": 0,
+    "maximum_quantity_per_order": null,
+    "show_in_app": false,
+    "notify_quantity": null,
+    "hide_quantity": false,
+    "unlimited_quantity": false,
+    "managed_by_branches": false,
+    "services_blocks": {
+      "installments": [
+        {
+          "name": "tamara",
+          "title": "pages.products.installments",
+          "logo": "https://cdn.assets.salla.network/admin/themes/default/assets/images/tamara_installment.png",
+          "details": "https://homeksa-art.com/en/2145963588/services/tamara/details"
+        },
+        {
+          "name": "tabby",
+          "title": "pages.products.installments",
+          "logo": "https://cdn.assets.salla.network/admin/themes/default/assets/images/tabby_installment.png",
+          "details": "https://homeksa-art.com/en/2145963588/services/tabby/details"
+        }
+      ]
+    },
+    "calories": null,
+    "customized_sku_quantity": false,
+    "channels": [
+      "web",
+      "mahly"
+    ],
+    "metadata": {
+      "title": "",
+      "description": "",
+      "url": null
+    },
+    "allow_attachments": false,
+    "is_pinned": false,
+    "pinned_date": "2023-10-29 17:43:47",
+    "sort": 0,
+    "enable_upload_image": false,
+    "updated_at": "2023-10-30 14:43:11",
+    "options": [],
+    "skus": [],
+    "categories": [
+      {
+        "id": 1027304036,
+        "name": "تسليم فوري",
+        "urls": {
+          "customer": "https://homeksa-art.com/en/تسليم-فوري/c1027304036",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [
+          {
+            "id": 1743939508,
+            "name": "غرف معيشه",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/غرف-معيشه/c1743939508",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [
+              {
+                "id": 1701188785,
+                "name": "طاولات",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/طاولات/c1701188785",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 1,
+                "update_at": "2023-01-24 03:24:09",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 1949344811,
+                "name": "طاولات تلفاز",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/طاولات-تلفاز/c1949344811",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 2,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 357633844,
+                "name": "مرجيحات",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/مرجيحات/c357633844",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 3,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 944257450,
+                "name": "كراسي",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/كراسي/c944257450",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 4,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 169171115,
+                "name": "طاولات مع كراسي",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/طاولات-مع-كراسي/c169171115",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 5,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 886178952,
+                "name": "خزائن",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/خزائن/c886178952",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 6,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              }
+            ],
+            "parent_id": 1027304036,
+            "status": "active",
+            "sort_order": 1,
+            "update_at": "2023-01-24 03:24:09",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": [
+              {
+                "id": 1701188785,
+                "name": "طاولات",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/طاولات/c1701188785",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 1,
+                "update_at": "2023-01-24 03:24:09",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 1949344811,
+                "name": "طاولات تلفاز",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/طاولات-تلفاز/c1949344811",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 2,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 357633844,
+                "name": "مرجيحات",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/مرجيحات/c357633844",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 3,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 944257450,
+                "name": "كراسي",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/كراسي/c944257450",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 4,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 169171115,
+                "name": "طاولات مع كراسي",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/طاولات-مع-كراسي/c169171115",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 5,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 886178952,
+                "name": "خزائن",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/خزائن/c886178952",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 6,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              }
+            ]
+          },
+          {
+            "id": 972330034,
+            "name": "اثاث مكتبي",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/اثاث-مكتبي/c972330034",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [
+              {
+                "id": 1222483002,
+                "name": "مكاتب",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/مكاتب/c1222483002",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 972330034,
+                "status": "active",
+                "sort_order": 1,
+                "update_at": "2023-05-23 02:55:31",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 955941391,
+                "name": "كراسي مكتب",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/كراسي-مكتب/c955941391",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 972330034,
+                "status": "active",
+                "sort_order": 2,
+                "update_at": "2023-05-31 18:04:31",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              }
+            ],
+            "parent_id": 1027304036,
+            "status": "active",
+            "sort_order": 2,
+            "update_at": "2023-05-23 02:50:53",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": [
+              {
+                "id": 1222483002,
+                "name": "مكاتب",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/مكاتب/c1222483002",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 972330034,
+                "status": "active",
+                "sort_order": 1,
+                "update_at": "2023-05-23 02:55:31",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 955941391,
+                "name": "كراسي مكتب",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/كراسي-مكتب/c955941391",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 972330034,
+                "status": "active",
+                "sort_order": 2,
+                "update_at": "2023-05-31 18:04:31",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              }
+            ]
+          },
+          {
+            "id": 1701821475,
+            "name": "غرف النوم",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/غرف-النوم/c1701821475",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [
+              {
+                "id": 1539709128,
+                "name": "سرير نوم",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/سرير-نوم/c1539709128",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1701821475,
+                "status": "active",
+                "sort_order": 1,
+                "update_at": "2023-06-06 15:36:50",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              }
+            ],
+            "parent_id": 1027304036,
+            "status": "active",
+            "sort_order": 3,
+            "update_at": "2023-06-06 15:36:50",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": [
+              {
+                "id": 1539709128,
+                "name": "سرير نوم",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/سرير-نوم/c1539709128",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1701821475,
+                "status": "active",
+                "sort_order": 1,
+                "update_at": "2023-06-06 15:36:50",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              }
+            ]
+          }
+        ],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 4,
+        "update_at": "2023-01-29 04:15:34",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": [
+          {
+            "id": 1743939508,
+            "name": "غرف معيشه",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/غرف-معيشه/c1743939508",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [
+              {
+                "id": 1701188785,
+                "name": "طاولات",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/طاولات/c1701188785",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 1,
+                "update_at": "2023-01-24 03:24:09",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 1949344811,
+                "name": "طاولات تلفاز",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/طاولات-تلفاز/c1949344811",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 2,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 357633844,
+                "name": "مرجيحات",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/مرجيحات/c357633844",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 3,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 944257450,
+                "name": "كراسي",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/كراسي/c944257450",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 4,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 169171115,
+                "name": "طاولات مع كراسي",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/طاولات-مع-كراسي/c169171115",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 5,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 886178952,
+                "name": "خزائن",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/خزائن/c886178952",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 6,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              }
+            ],
+            "parent_id": 1027304036,
+            "status": "active",
+            "sort_order": 1,
+            "update_at": "2023-01-24 03:24:09",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": [
+              {
+                "id": 1701188785,
+                "name": "طاولات",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/طاولات/c1701188785",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 1,
+                "update_at": "2023-01-24 03:24:09",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 1949344811,
+                "name": "طاولات تلفاز",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/طاولات-تلفاز/c1949344811",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 2,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 357633844,
+                "name": "مرجيحات",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/مرجيحات/c357633844",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 3,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 944257450,
+                "name": "كراسي",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/كراسي/c944257450",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 4,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 169171115,
+                "name": "طاولات مع كراسي",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/طاولات-مع-كراسي/c169171115",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 5,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 886178952,
+                "name": "خزائن",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/خزائن/c886178952",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1743939508,
+                "status": "active",
+                "sort_order": 6,
+                "update_at": "2023-06-06 15:38:22",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              }
+            ]
+          },
+          {
+            "id": 972330034,
+            "name": "اثاث مكتبي",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/اثاث-مكتبي/c972330034",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [
+              {
+                "id": 1222483002,
+                "name": "مكاتب",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/مكاتب/c1222483002",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 972330034,
+                "status": "active",
+                "sort_order": 1,
+                "update_at": "2023-05-23 02:55:31",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 955941391,
+                "name": "كراسي مكتب",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/كراسي-مكتب/c955941391",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 972330034,
+                "status": "active",
+                "sort_order": 2,
+                "update_at": "2023-05-31 18:04:31",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              }
+            ],
+            "parent_id": 1027304036,
+            "status": "active",
+            "sort_order": 2,
+            "update_at": "2023-05-23 02:50:53",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": [
+              {
+                "id": 1222483002,
+                "name": "مكاتب",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/مكاتب/c1222483002",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 972330034,
+                "status": "active",
+                "sort_order": 1,
+                "update_at": "2023-05-23 02:55:31",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              },
+              {
+                "id": 955941391,
+                "name": "كراسي مكتب",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/كراسي-مكتب/c955941391",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 972330034,
+                "status": "active",
+                "sort_order": 2,
+                "update_at": "2023-05-31 18:04:31",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              }
+            ]
+          },
+          {
+            "id": 1701821475,
+            "name": "غرف النوم",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/غرف-النوم/c1701821475",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [
+              {
+                "id": 1539709128,
+                "name": "سرير نوم",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/سرير-نوم/c1539709128",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1701821475,
+                "status": "active",
+                "sort_order": 1,
+                "update_at": "2023-06-06 15:36:50",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              }
+            ],
+            "parent_id": 1027304036,
+            "status": "active",
+            "sort_order": 3,
+            "update_at": "2023-06-06 15:36:50",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": [
+              {
+                "id": 1539709128,
+                "name": "سرير نوم",
+                "urls": {
+                  "customer": "https://homeksa-art.com/en/سرير-نوم/c1539709128",
+                  "admin": "https://s.salla.sa/categories"
+                },
+                "items": [],
+                "parent_id": 1701821475,
+                "status": "active",
+                "sort_order": 1,
+                "update_at": "2023-06-06 15:36:50",
+                "metadata": {
+                  "title": null,
+                  "description": null,
+                  "url": null
+                },
+                "sub_categories": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 972330034,
+        "name": "اثاث مكتبي",
+        "urls": {
+          "customer": "https://homeksa-art.com/en/اثاث-مكتبي/c972330034",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [
+          {
+            "id": 1222483002,
+            "name": "مكاتب",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/مكاتب/c1222483002",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 972330034,
+            "status": "active",
+            "sort_order": 1,
+            "update_at": "2023-05-23 02:55:31",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          },
+          {
+            "id": 955941391,
+            "name": "كراسي مكتب",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/كراسي-مكتب/c955941391",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 972330034,
+            "status": "active",
+            "sort_order": 2,
+            "update_at": "2023-05-31 18:04:31",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          }
+        ],
+        "parent_id": 1027304036,
+        "status": "active",
+        "sort_order": 2,
+        "update_at": "2023-05-23 02:50:53",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": [
+          {
+            "id": 1222483002,
+            "name": "مكاتب",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/مكاتب/c1222483002",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 972330034,
+            "status": "active",
+            "sort_order": 1,
+            "update_at": "2023-05-23 02:55:31",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          },
+          {
+            "id": 955941391,
+            "name": "كراسي مكتب",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/كراسي-مكتب/c955941391",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 972330034,
+            "status": "active",
+            "sort_order": 2,
+            "update_at": "2023-05-31 18:04:31",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          }
+        ]
+      },
+      {
+        "id": 955941391,
+        "name": "كراسي مكتب",
+        "urls": {
+          "customer": "https://homeksa-art.com/en/كراسي-مكتب/c955941391",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 972330034,
+        "status": "active",
+        "sort_order": 2,
+        "update_at": "2023-05-31 18:04:31",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      }
+    ],
+    "brand": null,
+    "tags": []
+  }
+},
+{
+  "event": "order.status.updated",
+  "merchant": 2023641241,
+  "created_at": "Mon Oct 30 2023 14:20:29 GMT+0300",
+  "data": {
+    "id": 1885584454,
+    "status": "جاري التوصيل",
+    "customized": {
+      "id": 1429617630,
+      "name": "جاري التوصيل",
+      "type": "custom",
+      "slug": "delivering",
+      "original": {
+        "id": 349994915,
+        "name": "جاري التوصيل"
+      },
+      "parent": {
+        "id": 340415191,
+        "name": "تم التنفيذ"
+      }
+    },
+    "note": null,
+    "created_at": {
+      "date": "2023-10-30 14:20:29.000000",
+      "timezone_type": 3,
+      "timezone": "Asia/Riyadh"
+    },
+    "order": {
+      "id": 128645664,
+      "reference_id": 88254597,
+      "urls": {
+        "customer": "https://homeksa-art.com/en/order/D82JZ3kzpyYBWQoAvvQ16Q0rVARwxqPL",
+        "admin": "https://s.salla.sa/orders/order/D82JZ3kzpyYBWQoAvvQ16Q0rVARwxqPL"
+      },
+      "date": {
+        "date": "2023-10-29 13:28:47.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "source": "store",
+      "source_device": "mobile",
+      "source_details": {
+        "type": "direct",
+        "value": null,
+        "device": "desktop",
+        "user-agent": "go-resty/2.7.0 (https://github.com/go-resty/resty)",
+        "ip": "34.93.76.191"
+      },
+      "first_complete_at": null,
+      "status": {
+        "id": 349994915,
+        "name": "جاري التوصيل",
+        "slug": "delivering",
+        "customized": {
+          "id": 1429617630,
+          "name": "جاري التوصيل"
+        }
+      },
+      "is_price_quote": false,
+      "payment_method": "tabby_installment",
+      "currency": "SAR",
+      "amounts": {
+        "sub_total": {
+          "amount": 620,
+          "currency": "SAR"
+        },
+        "shipping_cost": {
+          "amount": 0,
+          "currency": "SAR"
+        },
+        "cash_on_delivery": {
+          "amount": 0,
+          "currency": "SAR"
+        },
+        "tax": {
+          "percent": "15.00",
+          "amount": {
+            "amount": 93,
+            "currency": "SAR"
+          }
+        },
+        "discounts": [],
+        "total": {
+          "amount": 713,
+          "currency": "SAR"
+        }
+      },
+      "shipping": {
+        "id": 1915003055,
+        "app_id": null,
+        "company": "ناقل",
+        "logo": "",
+        "receiver": {
+          "name": "عابد الوايلي",
+          "email": "",
+          "phone": "966580020311"
+        },
+        "shipper": {
+          "name": "الرئيسي",
+          "company_name": "Home ksa",
+          "email": "",
+          "phone": "966544995888"
+        },
+        "pickup_address": {
+          "country": "Saudi Arabia",
+          "country_code": "SA",
+          "city": "Jeddah",
+          "shipping_address": "ام القرى,الصفا,22345, جدة شارع ام القرى, Jeddah,Saudi Arabia",
+          "street_number": "ام القرى",
+          "block": "الصفا",
+          "postal_code": "22345",
+          "geo_coordinates": {
+            "lat": 21.5811888,
+            "lng": 39.2183456
+          }
+        },
+        "address": {
+          "country": "SA",
+          "country_code": "SA",
+          "city": "Najran",
+          "shipping_address": " شارع شارع الامير سلطان بن عبد العزيز، الحي حي الشرفه ،, مركز ثراء الجزيره,, Najran, Saudi Arabia",
+          "street_number": "شارع الامير سلطان بن عبد العزيز",
+          "block": "حي الشرفه",
+          "postal_code": "",
+          "geo_coordinates": {
+            "lat": 0,
+            "lng": 0
+          }
+        },
+        "shipment": {
+          "id": "0",
+          "pickup_id": null,
+          "tracking_link": "0",
+          "label": []
+        },
+        "policy_options": [],
+        "shipment_reference": 104923071,
+        "branch_id": 1361855767
+      },
+      "shipments": [
+        {
+          "id": 104923071,
+          "created_at": null,
+          "type": "shipment",
+          "courier_id": 1915003055,
+          "courier_name": "ناقل",
+          "courier_logo": "",
+          "shipping_number": null,
+          "tracking_number": null,
+          "pickup_id": null,
+          "trackable": false,
+          "tracking_link": null,
+          "label": null,
+          "payment_method": "tabby_installment",
+          "source": "store",
+          "status": "",
+          "total": {
+            "amount": 713,
+            "currency": "SAR"
+          },
+          "cash_on_delivery": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "is_international": false,
+          "total_weight": {
+            "value": 0.5,
+            "units": "kg"
+          },
+          "packages": [
+            {
+              "item_id": 721151487,
+              "external_id": null,
+              "name": "خزانة",
+              "sku": "1107",
+              "price": {
+                "amount": 713,
+                "currency": "SAR"
+              },
+              "quantity": 1,
+              "weight": {
+                "value": 0.5,
+                "units": "kg"
+              }
+            }
+          ],
+          "ship_from": {
+            "type": "branch",
+            "name": "الرئيسي",
+            "email": "",
+            "phone": "966544995888",
+            "country": "Saudi Arabia",
+            "country_id": 1473353380,
+            "country_code": "SA",
+            "city": "Jeddah",
+            "city_id": 566146469,
+            "address_line": "ام القرى,الصفا,22345, جدة شارع ام القرى, Jeddah,Saudi Arabia",
+            "street_number": "ام القرى",
+            "block": "الصفا",
+            "postal_code": "22345",
+            "latitude": 21.5811888,
+            "longitude": 39.2183456,
+            "branch_id": 1361855767
+          },
+          "ship_to": {
+            "type": "address",
+            "name": "عابد الوايلي",
+            "email": "",
+            "phone": "966580020311",
+            "country": "Saudi Arabia",
+            "country_id": 1473353380,
+            "country_code": "SA",
+            "city": "Najran",
+            "city_id": 773200552,
+            "address_line": " شارع شارع الامير سلطان بن عبد العزيز، الحي حي الشرفه ،, مركز ثراء الجزيره,, Najran, Saudi Arabia",
+            "street_number": "شارع الامير سلطان بن عبد العزيز",
+            "block": "حي الشرفه",
+            "postal_code": "",
+            "latitude": 0,
+            "longitude": 0
+          },
+          "meta": {
+            "app_id": 0,
+            "policy_options": []
+          }
+        }
+      ],
+      "can_cancel": false,
+      "show_weight": false,
+      "can_reorder": true,
+      "is_pending_payment": false,
+      "pending_payment_ends_at": 0,
+      "total_weight": "0.5 KG",
+      "rating_link": null,
+      "shipment_branch": [
+        {
+          "id": 1361855767,
+          "name": "الرئيسي",
+          "status": "active",
+          "is_default": true,
+          "type": {}
+        }
+      ],
+      "customer": {
+        "id": 1742658709,
+        "name": "عابد الوايلي",
+        "mobile": "+966580020311",
+        "email": "",
+        "avatar": "https://cdn.assets.salla.network/admin/cp/assets/images/avatar_female.png",
+        "country": "Saudi Arabia",
+        "city": "نجران"
+      },
+      "items": [
+        {
+          "id": 721151487,
+          "product_id": 930320371,
+          "name": "خزانة",
+          "sku": "1107",
+          "quantity": 1,
+          "weight": 0.5,
+          "amounts": {
+            "price_without_tax": {
+              "amount": 620,
+              "currency": "SAR"
+            },
+            "total_discount": {
+              "amount": 0,
+              "currency": "SAR"
+            },
+            "tax": {
+              "percent": "15.00",
+              "amount": {
+                "amount": 93,
+                "currency": "SAR"
+              }
+            },
+            "total": {
+              "amount": 620,
+              "currency": "SAR"
+            }
+          }
+        }
+      ],
+      "total": {
+        "amount": 713,
+        "currency": "SAR"
+      }
+    }
+  }
+},
+ {
+  "event": "product.updated",
+  "merchant": 2023641241,
+  "created_at": "Mon Oct 30 2023 14:09:09 GMT+0300",
+  "data": {
+    "id": 683531539,
+    "promotion": {
+      "title": "خصم 30%",
+      "sub_title": null
+    },
+    "sku": "1568",
+    "mpn": "",
+    "gtin": "",
+    "type": "product",
+    "name": "طاولة جانبية فريدة",
+    "short_link_code": "aYDrWn",
+    "urls": {
+      "customer": "https://homeksa-art.com/en/طاولة-جانبية-فريدة/p683531539",
+      "admin": "https://s.salla.sa/products/683531539"
+    },
+    "price": {
+      "amount": 430,
+      "currency": "SAR"
+    },
+    "taxed_price": {
+      "amount": 494.5,
+      "currency": "SAR"
+    },
+    "pre_tax_price": {
+      "amount": 430,
+      "currency": "SAR"
+    },
+    "tax": {
+      "amount": 92.25,
+      "currency": "SAR"
+    },
+    "description": "<p class=\"ql-align-right\"> <strong>الوصف</strong> : </p><p class=\"ql-align-right\">طاولة جانبية تريندي بنمط مودرن ،  مصنوعة من اجود خامات الزجاج و المعدن ، تحتوي علي رفين من الزجاج ، سهل التنظيف ، مقاوم للخدش ، ارجل من المعدن ، ثابتة ومقاوم للاهتزاز ، هذة الطاولة متوفرة باللون الذهبي ، تأتي بمقاس ( الارتفاع 60 سم - عرض 47 سم - عمق 33 سم ) ، لتكتمل معك غرفة معيشة فاخرة للاستخدام اليومي.</p><p class=\"ql-align-right\"><strong>تفاصيل سريعة :</strong></p><p class=\"ql-align-right\"><strong>اللون</strong> : ذهبي</p><p class=\"ql-align-right\"><strong>المقاس</strong> : العمق 33 سم -  العرض 47 سم -  الارتفاع 60 سم</p><p class=\"ql-align-right\"><strong>الخامات</strong> : معدن - زجاج</p><p class=\"ql-align-right\"><strong>الاستخدام</strong> : منازل - فنادق - مطاعم </p><p><br></p>",
+    "quantity": null,
+    "status": "sale",
+    "is_available": true,
+    "views": 0,
+    "sale_price": {
+      "amount": 430,
+      "currency": "SAR"
+    },
+    "sale_end": null,
+    "require_shipping": true,
+    "cost_price": "",
+    "weight": 15,
+    "weight_type": "kg",
+    "with_tax": true,
+    "url": "https://homeksa-art.com/en/طاولة-جانبية-فريدة/p683531539",
+    "main_image": "https://cdn.salla.sa/xwWlv/7tL1MVvQ246xz6WSo11p98v6FemzDnWv0EjHtCIb.jpg",
+    "images": [
+      {
+        "id": 445842218,
+        "url": "https://cdn.salla.sa/xwWlv/1Qq2xIW6ij2TZTigwcSriF46V7gGAwVy2NA6hR0t.jpg",
+        "main": true,
+        "three_d_image_url": "",
+        "alt": "طاولة جانبية فريدة",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      },
+      {
+        "id": 2129249576,
+        "url": "https://cdn.salla.sa/xwWlv/BqlqTOhZmHSSQgf61xZUZ7zZfcfSa0TE6QjbzOxN.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "طاولة جانبية فريدة",
+        "video_url": "",
+        "type": "image",
+        "sort": 1
+      },
+      {
+        "id": 1219945513,
+        "url": "https://cdn.salla.sa/xwWlv/6sEq87bzGdLLKWPJdjeIJog7iosTTrhWCBvEjDjN.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "طاولة جانبية فريدة",
+        "video_url": "",
+        "type": "image",
+        "sort": 2
+      },
+      {
+        "id": 1954030123,
+        "url": "https://cdn.salla.sa/xwWlv/OgcxqDCcpdic0agjlzX1vw4zxGk0cccAS2F09Rqa.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "طاولة جانبية فريدة",
+        "video_url": "",
+        "type": "image",
+        "sort": 3
+      },
+      {
+        "id": 162712880,
+        "url": "https://cdn.salla.sa/xwWlv/yyLjnpaC6DJsIzomd5aD3QVWLsr5i2Ys5XVINWFZ.jpg",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "طاولة جانبية فريدة",
+        "video_url": "",
+        "type": "image",
+        "sort": 4
+      }
+    ],
+    "sold_quantity": 0,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "rate": 0
+    },
+    "regular_price": {
+      "amount": 615,
+      "currency": "SAR"
+    },
+    "max_items_per_user": 0,
+    "maximum_quantity_per_order": null,
+    "show_in_app": false,
+    "notify_quantity": null,
+    "hide_quantity": false,
+    "unlimited_quantity": true,
+    "managed_by_branches": false,
+    "services_blocks": {
+      "installments": [
+        {
+          "name": "tamara",
+          "title": "pages.products.installments",
+          "logo": "https://cdn.assets.salla.network/admin/themes/default/assets/images/tamara_installment.png",
+          "details": "https://homeksa-art.com/en/683531539/services/tamara/details"
+        },
+        {
+          "name": "tabby",
+          "title": "pages.products.installments",
+          "logo": "https://cdn.assets.salla.network/admin/themes/default/assets/images/tabby_installment.png",
+          "details": "https://homeksa-art.com/en/683531539/services/tabby/details"
+        }
+      ]
+    },
+    "calories": null,
+    "customized_sku_quantity": false,
+    "channels": [
+      "web",
+      "mahly"
+    ],
+    "metadata": {
+      "title": "",
+      "description": "",
+      "url": null
+    },
+    "allow_attachments": false,
+    "is_pinned": false,
+    "pinned_date": "2023-02-10 16:15:59",
+    "sort": 107,
+    "enable_upload_image": false,
+    "updated_at": "2023-10-30 14:08:56",
+    "options": [],
+    "skus": [],
+    "categories": [
+      {
+        "id": 1421390490,
+        "name": "اثاث غرفة المعيشة",
+        "urls": {
+          "customer": "https://homeksa-art.com/en/اثاث-غرفة-المعيشة/c1421390490",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [
+          {
+            "id": 1112481765,
+            "name": "كراسي",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/كراسي/c1112481765",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 1421390490,
+            "status": "active",
+            "sort_order": 1,
+            "update_at": "2023-06-24 23:26:37",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          },
+          {
+            "id": 1736555234,
+            "name": "طاولات تلفاز",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/طاولات-تلفاز/c1736555234",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 1421390490,
+            "status": "active",
+            "sort_order": 2,
+            "update_at": "2023-03-05 03:29:18",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          },
+          {
+            "id": 55310572,
+            "name": "طاولات جانبية",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/طاولات-جانبية/c55310572",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 1421390490,
+            "status": "active",
+            "sort_order": 3,
+            "update_at": "2023-03-05 03:29:18",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          },
+          {
+            "id": 58852655,
+            "name": "طاولات القهوة",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/طاولات-القهوة/c58852655",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 1421390490,
+            "status": "active",
+            "sort_order": 4,
+            "update_at": "2023-02-15 05:22:27",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          },
+          {
+            "id": 791954217,
+            "name": "كنب وجلسات",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/كنب-وجلسات/c791954217",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 1421390490,
+            "status": "active",
+            "sort_order": 6,
+            "update_at": "2023-02-15 05:22:31",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          },
+          {
+            "id": 616865844,
+            "name": "خزائن",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/خزائن/c616865844",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 1421390490,
+            "status": "active",
+            "sort_order": 9,
+            "update_at": "2023-03-22 15:53:26",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          },
+          {
+            "id": 1258258731,
+            "name": "مداخل وكونسول",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/مداخل-وكونسول/c1258258731",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 1421390490,
+            "status": "active",
+            "sort_order": 10,
+            "update_at": "2023-03-22 15:53:26",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          }
+        ],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 2,
+        "update_at": "2023-01-12 02:51:08",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": [
+          {
+            "id": 1112481765,
+            "name": "كراسي",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/كراسي/c1112481765",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 1421390490,
+            "status": "active",
+            "sort_order": 1,
+            "update_at": "2023-06-24 23:26:37",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          },
+          {
+            "id": 1736555234,
+            "name": "طاولات تلفاز",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/طاولات-تلفاز/c1736555234",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 1421390490,
+            "status": "active",
+            "sort_order": 2,
+            "update_at": "2023-03-05 03:29:18",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          },
+          {
+            "id": 55310572,
+            "name": "طاولات جانبية",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/طاولات-جانبية/c55310572",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 1421390490,
+            "status": "active",
+            "sort_order": 3,
+            "update_at": "2023-03-05 03:29:18",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          },
+          {
+            "id": 58852655,
+            "name": "طاولات القهوة",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/طاولات-القهوة/c58852655",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 1421390490,
+            "status": "active",
+            "sort_order": 4,
+            "update_at": "2023-02-15 05:22:27",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          },
+          {
+            "id": 791954217,
+            "name": "كنب وجلسات",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/كنب-وجلسات/c791954217",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 1421390490,
+            "status": "active",
+            "sort_order": 6,
+            "update_at": "2023-02-15 05:22:31",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          },
+          {
+            "id": 616865844,
+            "name": "خزائن",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/خزائن/c616865844",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 1421390490,
+            "status": "active",
+            "sort_order": 9,
+            "update_at": "2023-03-22 15:53:26",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          },
+          {
+            "id": 1258258731,
+            "name": "مداخل وكونسول",
+            "urls": {
+              "customer": "https://homeksa-art.com/en/مداخل-وكونسول/c1258258731",
+              "admin": "https://s.salla.sa/categories"
+            },
+            "items": [],
+            "parent_id": 1421390490,
+            "status": "active",
+            "sort_order": 10,
+            "update_at": "2023-03-22 15:53:26",
+            "metadata": {
+              "title": null,
+              "description": null,
+              "url": null
+            },
+            "sub_categories": []
+          }
+        ]
+      },
+      {
+        "id": 55310572,
+        "name": "طاولات جانبية",
+        "urls": {
+          "customer": "https://homeksa-art.com/en/طاولات-جانبية/c55310572",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 1421390490,
+        "status": "active",
+        "sort_order": 3,
+        "update_at": "2023-03-05 03:29:18",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      }
+    ],
+    "brand": null,
+    "tags": []
+  }
+},
+ {
+  "event": "order.cancelled",
+  "merchant": 2023641241,
+  "created_at": "Mon Oct 30 2023 15:31:59 GMT+0300",
+  "data": {
+    "id": 416714827,
+    "reference_id": 60028912,
+    "urls": {
+      "customer": "https://homeksa-art.com/en/order/yRdxQ9m28rEbam4Q6Bv1Xz5KoDJZgkAP",
+      "admin": "https://s.salla.sa/orders/order/yRdxQ9m28rEbam4Q6Bv1Xz5KoDJZgkAP"
+    },
+    "date": {
+      "date": "2023-02-22 17:26:55.000000",
+      "timezone_type": 3,
+      "timezone": "Asia/Riyadh"
+    },
+    "source": "store",
+    "source_device": "mobile",
+    "source_details": {
+      "type": "coupon",
+      "value": "KSA15",
+      "device": "ios",
+      "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 271.0.0.11.84 (iPhone14,5; iOS 16_2; en_SA@calendar=gregorian; en-SA; scale=3.00; 1170x2532; 447831982)",
+      "ip": "51.252.24.103"
+    },
+    "first_complete_at": null,
+    "status": {
+      "id": 525144736,
+      "name": "ملغي",
+      "slug": "canceled",
+      "customized": {
+        "id": 697105884,
+        "name": "ملغي"
+      }
+    },
+    "is_price_quote": false,
+    "payment_method": "credit_card",
+    "currency": "SAR",
+    "amounts": {
+      "sub_total": {
+        "amount": 3083,
+        "currency": "SAR"
+      },
+      "shipping_cost": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "cash_on_delivery": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "tax": {
+        "percent": "15.00",
+        "amount": {
+          "amount": 393.08,
+          "currency": "SAR"
+        }
+      },
+      "discounts": [
+        {
+          "title": "Discount coupon KSA15",
+          "type": null,
+          "code": "KSA15",
+          "discount": "462.45",
+          "currency": "SAR",
+          "discounted_shipping": "0.00",
+          "hasMarketing": false
+        }
+      ],
+      "total": {
+        "amount": 3013.63,
+        "currency": "SAR"
+      }
+    },
+    "shipping": {
+      "id": 1915003055,
+      "app_id": null,
+      "company": "ناقل",
+      "logo": "",
+      "receiver": {
+        "name": "آلاء العباد",
+        "email": "a.s.alabbad@hotmail.com",
+        "phone": "966581308876"
+      },
+      "shipper": {
+        "name": "الرئيسي",
+        "company_name": "Home ksa",
+        "email": "",
+        "phone": "966544995888"
+      },
+      "pickup_address": {
+        "country": "Saudi Arabia",
+        "country_code": "SA",
+        "city": "Jeddah",
+        "shipping_address": "ام القرى,الصفا,22345, جدة شارع ام القرى, Jeddah,Saudi Arabia",
+        "street_number": "ام القرى",
+        "block": "الصفا",
+        "postal_code": "22345",
+        "geo_coordinates": {
+          "lat": 21.5811888,
+          "lng": 39.2183456
+        }
+      },
+      "address": {
+        "country": "SA",
+        "country_code": "SA",
+        "city": "Al Khobar",
+        "shipping_address": " شارع اطلالة البحر، الحي البحيرة ،, 623,, Al Khobar, Saudi Arabia",
+        "street_number": "اطلالة البحر",
+        "block": "البحيرة",
+        "postal_code": "",
+        "geo_coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "shipment": {
+        "id": "0",
+        "pickup_id": null,
+        "tracking_link": "0",
+        "label": []
+      },
+      "policy_options": [],
+      "shipment_reference": 727539450,
+      "branch_id": 1361855767
+    },
+    "shipments": [
+      {
+        "id": 727539450,
+        "created_at": null,
+        "type": "shipment",
+        "courier_id": 1915003055,
+        "courier_name": "ناقل",
+        "courier_logo": "",
+        "shipping_number": null,
+        "tracking_number": null,
+        "pickup_id": null,
+        "trackable": false,
+        "tracking_link": null,
+        "label": null,
+        "payment_method": "credit_card",
+        "source": "store",
+        "status": "cancelled",
+        "total": {
+          "amount": 3013.63,
+          "currency": "SAR"
+        },
+        "cash_on_delivery": {
+          "amount": 0,
+          "currency": "SAR"
+        },
+        "is_international": false,
+        "total_weight": {
+          "value": 1,
+          "units": "kg"
+        },
+        "packages": [
+          {
+            "item_id": 489682482,
+            "external_id": null,
+            "name": "طاولة طعام بتصميم عصري",
+            "sku": "1113",
+            "price": {
+              "amount": 3476.08,
+              "currency": "SAR"
+            },
+            "quantity": 1,
+            "weight": {
+              "value": 1,
+              "units": "kg"
+            }
+          }
+        ],
+        "ship_from": {
+          "type": "branch",
+          "name": "الرئيسي",
+          "email": "",
+          "phone": "966544995888",
+          "country": "Saudi Arabia",
+          "country_id": 1473353380,
+          "country_code": "SA",
+          "city": "Jeddah",
+          "city_id": 566146469,
+          "address_line": "ام القرى,الصفا,22345, جدة شارع ام القرى, Jeddah,Saudi Arabia",
+          "street_number": "ام القرى",
+          "block": "الصفا",
+          "postal_code": "22345",
+          "latitude": 21.5811888,
+          "longitude": 39.2183456,
+          "branch_id": 1361855767
+        },
+        "ship_to": {
+          "type": "address",
+          "name": "آلاء العباد",
+          "email": "a.s.alabbad@hotmail.com",
+          "phone": "966581308876",
+          "country": "Saudi Arabia",
+          "country_id": 1473353380,
+          "country_code": "SA",
+          "city": "Al Khobar",
+          "city_id": 915304371,
+          "address_line": " شارع اطلالة البحر، الحي البحيرة ،, 623,, Al Khobar, Saudi Arabia",
+          "street_number": "اطلالة البحر",
+          "block": "البحيرة",
+          "postal_code": "",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "meta": {
+          "app_id": 0,
+          "policy_options": []
+        }
+      }
+    ],
+    "can_cancel": false,
+    "show_weight": false,
+    "can_reorder": true,
+    "is_pending_payment": false,
+    "pending_payment_ends_at": 0,
+    "total_weight": "1 KG",
+    "rating_link": null,
+    "shipment_branch": [
+      {
+        "id": 1361855767,
+        "name": "الرئيسي",
+        "status": "active",
+        "is_default": true,
+        "type": {}
+      }
+    ],
+    "customer": {
+      "id": 494240673,
+      "first_name": "آلاء",
+      "last_name": "العباد",
+      "mobile": 581308876,
+      "mobile_code": "+966",
+      "email": "a.s.alabbad@hotmail.com",
+      "urls": {
+        "customer": "https://homeksa-art.com/en/profile",
+        "admin": "https://s.salla.sa/customers/04NBbJQ8P3gDaKow8X4awEYG7oKxqjLX"
+      },
+      "avatar": "https://cdn.assets.salla.network/admin/cp/assets/images/avatar_female.png",
+      "gender": "female",
+      "birthday": {
+        "date": "1986-07-05 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "city": "الخبر",
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "currency": "SAR",
+      "location": "623",
+      "updated_at": {
+        "date": "2023-09-07 20:10:30.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "groups": []
+    },
+    "items": [
+      {
+        "id": 489682482,
+        "name": "طاولة طعام بتصميم عصري",
+        "sku": "1113",
+        "quantity": 1,
+        "currency": "SAR",
+        "weight": 1,
+        "weight_label": "1 KG",
+        "amounts": {
+          "price_without_tax": {
+            "amount": 3083,
+            "currency": "SAR"
+          },
+          "total_discount": {
+            "amount": 462.45,
+            "currency": "SAR"
+          },
+          "tax": {
+            "percent": "15.00",
+            "amount": {
+              "amount": 393.08,
+              "currency": "SAR"
+            }
+          },
+          "total": {
+            "amount": 3083,
+            "currency": "SAR"
+          }
+        },
+        "notes": "",
+        "product": {
+          "id": 270636740,
+          "type": "product",
+          "promotion": {
+            "title": null,
+            "sub_title": null
+          },
+          "quantity": null,
+          "status": "sale",
+          "is_available": true,
+          "sku": "1113",
+          "name": "طاولة طعام بتصميم عصري",
+          "price": {
+            "amount": 3083,
+            "currency": "SAR"
+          },
+          "sale_price": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "currency": "SAR",
+          "url": "https://homeksa-art.com/en/طاولة-طعام-بتصميم-عصري/p270636740",
+          "thumbnail": "https://cdn.salla.sa/xwWlv/9uhMjn1JpHobutxlkrnSxm91OVMAHLa6HvBqOQ6f.jpg",
+          "has_special_price": false,
+          "regular_price": {
+            "amount": 3083,
+            "currency": "SAR"
+          },
+          "calories": null,
+          "mpn": "",
+          "gtin": "",
+          "description": "<p class=\"ql-direction-rtl ql-align-right\"><strong>الوصف</strong> :</p><p class=\"ql-direction-rtl ql-align-right\"><span style=\"background-color: rgb(250, 250, 250); color: rgb(65, 65, 65);\">طاولة طعام فاخرة وأنيقة ومثالية لأي منزل , تتميز بمزيج من المعدن والرخام ، لإضفاء مظهر أنيق وعصري , يوفر الإطار المعدني الدعم الهيكلي بينما يضيف السطح الرخامي لمسة من الرقي إلى مساحتك , تحتوي علي سطح من الرخام مقاوم للخدش ، سهل التنظيف ، قاعدة من المعدن الثقيل ، يجعلها ثابتة ، مقاومة للاهتزاز ، متوفر بعدة الوان  ( الأسود - الأبيض - الرمادي )، تأتي بمقاس ( </span>الطول 160 سم- العرض90 سم - الارتفاع 75سم ) <span style=\"background-color: rgb(250, 250, 250); color: rgb(65, 65, 65);\">ستكون هذه الطاولة في غرفة الطعام الخاصة بك لسنوات قادمة بفضل الخامات المتينة , </span>لتصبح الأنسب لك ولعائلتك.</p><p class=\"ql-direction-rtl ql-align-right\"><strong style=\"color: var(--color-dark-300);\">تفاصيل سريعة : </strong></p><p class=\"ql-align-right\"><strong>الالوان</strong> : أسود - ابيض - رمادي</p><p class=\"ql-align-right\"><strong>المقاس</strong> : ( الطول 160 سم - العرض90 سم - الارتفاع 75سم )</p><p class=\"ql-align-right\"><strong>الخامات</strong> :  معدن - رخام</p><p class=\"ql-align-right\"><strong>الاستخدام</strong> : منازل - فنادق - مطاعم</p><p class=\"ql-direction-rtl ql-align-right\"><br></p><p class=\"ql-align-right\"><span style=\"color: transparent;\"><img src=\"https://s.alicdn.com/@sc04/kf/H32d9217f03f14368babb5aecedaa1a49j/230128306/H32d9217f03f14368babb5aecedaa1a49j.jpg?quality=close\"></span></p><p class=\"ql-align-right\"><span style=\"color: transparent;\"><img src=\"https://s.alicdn.com/@sc04/kf/H51115cf17b1f45fc8026ad02f5d32c99I/230128306/H51115cf17b1f45fc8026ad02f5d32c99I.jpg?quality=close\"></span></p><p class=\"ql-align-right\"><span style=\"color: transparent;\"><img src=\"https://s.alicdn.com/@sc04/kf/H37f507b7d5c34302b54764486703c836B/230128306/H37f507b7d5c34302b54764486703c836B.jpg?quality=close\"></span></p><p class=\"ql-align-right\"><span style=\"color: transparent;\"><img src=\"https://s.alicdn.com/@sc04/kf/H3eec812351344610a29ec099c9dee20ed/230128306/H3eec812351344610a29ec099c9dee20ed.jpg?quality=close\"></span></p><p class=\"ql-align-right\"><span style=\"color: transparent;\"><img src=\"https://s.alicdn.com/@sc04/kf/H02878b16cdf3446184e50744337eb1d15/230128306/H02878b16cdf3446184e50744337eb1d15.jpg?quality=close\"></span></p><p class=\"ql-align-right\"><img src=\"https://cdn.salla.sa/xwWlv/ztXfL76IDAoDmFlDUSmwQWKuZ86sPdxtpuHuJ0wv.png\"></p><p class=\"ql-direction-rtl\"><br></p>",
+          "favorite": null,
+          "features": {
+            "availability_notify": null,
+            "show_rating": false
+          }
+        },
+        "options": [],
+        "images": [],
+        "codes": [],
+        "files": [],
+        "product_reservations": []
+      }
+    ],
+    "bank": null,
+    "tags": []
+  }
+},
+ {
+  "event": "abandoned.cart",
+  "merchant": 2023641241,
+  "created_at": "Mon Oct 30 2023 15:20:40 GMT+0300",
+  "data": {
+    "id": 311119495,
+    "total": {
+      "amount": 3130.02,
+      "currency": "SAR"
+    },
+    "subtotal": {
+      "amount": 3629,
+      "currency": "SAR"
+    },
+    "total_discount": {
+      "amount": 0,
+      "currency": "SAR"
+    },
+    "checkout_url": "https://homeksa-art.com/ar/checkout/dX3VDLwJmBlxYOky7MAbN02npYg98Bo6QoK4j6erXgGdz89RZ1EWq5aY",
+    "age_in_minutes": 242,
+    "created_at": {
+      "date": "2023-10-30 11:18:36.000000",
+      "timezone_type": 3,
+      "timezone": "Asia/Riyadh"
+    },
+    "updated_at": null,
+    "customer": {
+      "id": 977046570,
+      "name": "حسن قابل",
+      "mobile": "+966556836771",
+      "email": "hasan.gabel@gmail.com",
+      "avatar": "https://cdn.salla.sa/customer_profiles/rmMFtHmAG4oR3ESepn4IBvjLbQ5mbBG0r9qUVlFG.jpg",
+      "country": "السعودية",
+      "city": "الرياض"
+    },
+    "coupon": {
+      "id": 1698012203,
+      "code": "SA25",
+      "status": "active",
+      "type": "percentage",
+      "amount": {
+        "amount": 25,
+        "currency": "SAR"
+      },
+      "minimum_amount": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "expiry_date": null,
+      "start_date": null,
+      "created_at": {
+        "date": "2023-09-09 22:22:48.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      }
+    },
+    "items": [
+      {
+        "id": 1264838532,
+        "product_id": 585332391,
+        "quantity": 1
+      },
+      {
+        "id": 120931585,
+        "product_id": 1841839262,
+        "quantity": 1
+      },
+      {
+        "id": 1984826812,
+        "product_id": 1011851503,
+        "quantity": 1
+      }
+    ]
+  }
+},
+{
+  "event": "order.created",
+  "merchant": 2023641241,
+  "created_at": "Mon Oct 30 2023 16:34:54 GMT+0300",
+  "data": {
+    "id": 1736411522,
+    "reference_id": 88454951,
+    "urls": {
+      "customer": "https://homeksa-art.com/ar/order/EZzNmdp",
+      "admin": "https://s.salla.sa/orders/order/EZzNmdp"
+    },
+    "date": {
+      "date": "2023-10-30 16:34:53.000000",
+      "timezone_type": 3,
+      "timezone": "Asia/Riyadh"
+    },
+    "source": "store",
+    "source_device": "desktop",
+    "source_details": {
+      "type": "direct",
+      "value": null,
+      "device": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+      "ip": "41.44.87.123"
+    },
+    "first_complete_at": null,
+    "status": {
+      "id": 232439762,
+      "name": "بإنتظار المراجعة",
+      "slug": "under_review"
+    },
+    "is_price_quote": false,
+    "payment_method": "bank",
+    "currency": "SAR",
+    "amounts": {
+      "sub_total": {
+        "amount": 620,
+        "currency": "SAR"
+      },
+      "shipping_cost": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "cash_on_delivery": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "tax": {
+        "percent": "15.00",
+        "amount": {
+          "amount": 93,
+          "currency": "SAR"
+        }
+      },
+      "discounts": [],
+      "total": {
+        "amount": 713,
+        "currency": "SAR"
+      }
+    },
+    "shipping": {
+      "id": 1915003055,
+      "app_id": null,
+      "company": "ناقل",
+      "logo": "",
+      "receiver": {
+        "name": "عمرو فهد",
+        "email": "ksah87348@gmail.com",
+        "phone": "201150890166"
+      },
+      "shipper": {
+        "name": "الرئيسي",
+        "company_name": "Home ksa",
+        "email": "",
+        "phone": "966544995888"
+      },
+      "pickup_address": {
+        "country": "السعودية",
+        "country_code": "SA",
+        "city": "Jeddah",
+        "shipping_address": "ام القرى,الصفا,22345, جدة شارع ام القرى, Jeddah,السعودية",
+        "street_number": "ام القرى",
+        "block": "الصفا",
+        "postal_code": "22345",
+        "geo_coordinates": {
+          "lat": 21.5811888,
+          "lng": 39.2183456
+        }
+      },
+      "address": {
+        "country": "SA",
+        "country_code": "SA",
+        "city": "المدينة المنورة",
+        "shipping_address": " شارع حرض، عمارة الدور الاول شقة،، الحي الفيصليه ،, المدينة المنورة, السعودية",
+        "street_number": "حرض، عمارة الدور الاول شقة،",
+        "block": "الفيصليه",
+        "postal_code": "",
+        "geo_coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "shipment": {
+        "id": "0",
+        "pickup_id": null,
+        "tracking_link": "0",
+        "label": []
+      },
+      "policy_options": [],
+      "shipment_reference": 1134201394,
+      "branch_id": 1361855767
+    },
+    "shipments": [
+      {
+        "id": 1134201394,
+        "created_at": null,
+        "type": "shipment",
+        "courier_id": 1915003055,
+        "courier_name": "ناقل",
+        "courier_logo": "",
+        "shipping_number": null,
+        "tracking_number": null,
+        "pickup_id": null,
+        "trackable": false,
+        "tracking_link": null,
+        "label": null,
+        "payment_method": "bank",
+        "source": "store",
+        "status": "pending",
+        "total": {
+          "amount": 713,
+          "currency": "SAR"
+        },
+        "cash_on_delivery": {
+          "amount": 0,
+          "currency": "SAR"
+        },
+        "is_international": false,
+        "total_weight": {
+          "value": 0.5,
+          "units": "kg"
+        },
+        "packages": [
+          {
+            "item_id": 494749154,
+            "external_id": null,
+            "name": "كرسي ليزى هزاز",
+            "sku": "1183",
+            "price": {
+              "amount": 713,
+              "currency": "SAR"
+            },
+            "quantity": 1,
+            "weight": {
+              "value": 0.5,
+              "units": "kg"
+            }
+          }
+        ],
+        "ship_from": {
+          "type": "branch",
+          "name": "الرئيسي",
+          "email": "",
+          "phone": "966544995888",
+          "country": "السعودية",
+          "country_id": 1473353380,
+          "country_code": "SA",
+          "city": "Jeddah",
+          "city_id": 566146469,
+          "address_line": "ام القرى,الصفا,22345, جدة شارع ام القرى, Jeddah,السعودية",
+          "street_number": "ام القرى",
+          "block": "الصفا",
+          "postal_code": "22345",
+          "latitude": 21.5811888,
+          "longitude": 39.2183456,
+          "branch_id": 1361855767
+        },
+        "ship_to": {
+          "type": "address",
+          "name": "عمرو فهد",
+          "email": "ksah87348@gmail.com",
+          "phone": "201150890166",
+          "country": "السعودية",
+          "country_id": 1473353380,
+          "country_code": "SA",
+          "city": "Medina",
+          "city_id": 1298199463,
+          "address_line": " شارع حرض، عمارة الدور الاول شقة،، الحي الفيصليه ،, المدينة المنورة, السعودية",
+          "street_number": "حرض، عمارة الدور الاول شقة،",
+          "block": "الفيصليه",
+          "postal_code": "",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "meta": {
+          "app_id": 0,
+          "policy_options": []
+        }
+      }
+    ],
+    "can_cancel": false,
+    "show_weight": false,
+    "can_reorder": true,
+    "is_pending_payment": false,
+    "pending_payment_ends_at": 172798,
+    "total_weight": null,
+    "rating_link": null,
+    "shipment_branch": [
+      {
+        "id": 1361855767,
+        "name": "الرئيسي",
+        "status": "active",
+        "is_default": true,
+        "type": {}
+      }
+    ],
+    "customer": {
+      "id": 1631840239,
+      "first_name": "عمرو",
+      "last_name": "فهد",
+      "mobile": 1150890166,
+      "mobile_code": "+20",
+      "email": "ksah87348@gmail.com",
+      "urls": {
+        "customer": "https://homeksa-art.com/ar/profile",
+        "admin": "https://s.salla.sa/customers/mwQERo"
+      },
+      "avatar": "https://cdn.assets.salla.network/stores/themes/default/assets/images/avatar_male.png",
+      "gender": "",
+      "birthday": null,
+      "city": "المدينة المنورة",
+      "country": "السعودية",
+      "country_code": "EG",
+      "currency": "SAR",
+      "location": "",
+      "updated_at": {
+        "date": "2023-10-30 16:34:38.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "groups": []
+    },
+    "items": [
+      {
+        "id": 494749154,
+        "name": "كرسي ليزى هزاز",
+        "sku": "1183",
+        "quantity": 1,
+        "currency": "SAR",
+        "weight": 0.5,
+        "weight_label": "٠٫٥ كجم",
+        "amounts": {
+          "price_without_tax": {
+            "amount": 620,
+            "currency": "SAR"
+          },
+          "total_discount": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "tax": {
+            "percent": "15.00",
+            "amount": {
+              "amount": 93,
+              "currency": "SAR"
+            }
+          },
+          "total": {
+            "amount": 620,
+            "currency": "SAR"
+          }
+        },
+        "notes": "",
+        "product": {
+          "id": 2037810039,
+          "type": "product",
+          "promotion": {
+            "title": "خصم 15%",
+            "sub_title": null
+          },
+          "quantity": null,
+          "status": "sale",
+          "is_available": true,
+          "sku": "1183",
+          "name": "كرسي ليزى هزاز",
+          "price": {
+            "amount": 620,
+            "currency": "SAR"
+          },
+          "sale_price": {
+            "amount": 620,
+            "currency": "SAR"
+          },
+          "currency": "SAR",
+          "url": "https://homeksa-art.com/ar/كرسي-ليزى-هزاز/p2037810039",
+          "thumbnail": "https://cdn.salla.sa/xwWlv/nFJ3C3XNfXreePRfHw8jPBXcjVVmrAvAH6e2KODL.jpg",
+          "has_special_price": true,
+          "regular_price": {
+            "amount": 730,
+            "currency": "SAR"
+          },
+          "calories": null,
+          "mpn": "",
+          "gtin": "",
+          "description": "<p class=\"ql-align-right\"><strong>الوصف :</strong></p><p class=\"ql-align-right\"><span style=\"color: rgb(67, 67, 67);\">كرسي ليزي هزاز بتصميم مودرن ، هيكله من المعدن المقوى ، مغطى باسفنج بكثافة تناسب الأوزان المختلفة ، مسند الظهر والقدم مزود بآلية لتعديل زاويته بسهولة تتيح للمستخدم اختيار الوضعية الأكثر ارتياحاً جالساً أو مستلقي , متوفر باللون السماوي</span><strong style=\"color: rgb(67, 67, 67);\"> </strong><span style=\"color: rgb(67, 67, 67);\">، يأتي بمقاس</span><strong style=\"color: rgb(67, 67, 67);\"> </strong><span style=\"color: rgb(67, 67, 67);\">( ارتفاع 94 سم - عرض 56 سم - عمق 86 سم ) ، ليصبح الكرسي المصمم لك للاسترخاء في جميع الأوقات.</span></p><p class=\"ql-align-right\"><strong style=\"color: rgb(67, 67, 67);\">تفاصيل سريعة :</strong></p><p class=\"ql-align-right\"><strong style=\"color: rgb(67, 67, 67);\">﻿الالوان : </strong><span style=\"color: rgb(67, 67, 67);\">سماوي</span><strong style=\"color: rgb(67, 67, 67);\"> </strong></p><p class=\"ql-align-right\"><strong style=\"color: rgb(67, 67, 67);\">المقاس : </strong><span style=\"color: rgb(67, 67, 67);\">( ارتفاع 94 سم - عرض 56 سم - عمق 86 سم )</span></p><p class=\"ql-align-right\"><strong style=\"color: rgb(67, 67, 67);\">الخامات : </strong><span style=\"color: rgb(67, 67, 67);\">خشب - اسفنج - قماش  - معدن </span></p><p class=\"ql-align-right\"><strong style=\"color: rgb(67, 67, 67);\">الاستخدام : </strong><span style=\"color: rgb(67, 67, 67);\">المنازل - الفنادق - المطاعم</span></p><p class=\"ql-align-right\"><br></p><p class=\"ql-align-right\"><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://video-cdn.aliexpress-media.com/9f8e1de30350cb41/P6RcDh2cJdvDptiuTmM/C5o7aFK78GzJ2zzp5vf_285660468860_hd_265_hq.mp4?auth_key=1691448187-0-0-afa5e058c822302dac2bd1efe8981c28&w=720&h=720&e=hd_265&t=213bc9f616836721870974511e6dfd&b=ae_sg&p=ae_sg_ae_sg_vpc_scene&tr=mp4-265-hd&t_u=21017a6516854564983111469e23fa&user=2206678752624&from=chrome\"></iframe><p class=\"ql-align-right\"><br></p><p><br></p><p><img src=\"https://cdn.salla.sa/NOmmV/zRmvTVeBuJxfCcrcKYY8HHknleGZ3PBC1krL9xtB.jpg\"><img src=\"https://cdn.salla.sa/NOmmV/U7du9KQ8ZqETdydp3ka1XbL2Fh6IvqEQaPCvhjiJ.jpg\"><img src=\"https://cdn.salla.sa/NOmmV/Je9qjBjeSSmtUFyGwxF50XTaLNfliww0AeNB0rvJ.jpg\"></p><p><br></p>",
+          "favorite": null,
+          "features": {
+            "availability_notify": null,
+            "show_rating": false
+          }
+        },
+        "options": [
+          {
+            "id": 1905212118,
+            "product_option_id": 1175850433,
+            "name": "اللون",
+            "type": "radio",
+            "value": {
+              "id": 764169589,
+              "name": "وردي",
+              "price": {
+                "amount": 0,
+                "currency": "SAR"
+              }
+            }
+          }
+        ],
+        "images": [],
+        "codes": [],
+        "files": [],
+        "product_reservations": []
+      }
+    ],
+    "bank": {
+      "id": 1870571146,
+      "bank_name": "Al Rajhi Bank",
+      "bank_id": 566146469,
+      "account_name": "شركة احلام المنازل",
+      "account_number": "645608016140692",
+      "iban_number": "SA4380000645608016140692",
+      "iban_certificate": null,
+      "status": "active"
+    },
+    "tags": []
+  }
+},
+ {
+  "event": "order.deleted",
+  "merchant": 2023641241,
+  "created_at": "Mon Oct 30 2023 16:31:12 GMT+0300",
+  "data": {
+    "id": 1377184515,
+    "reference_id": 88454312,
+    "urls": {
+      "customer": "https://homeksa-art.com/en/order/yRdxQ9m28rEbamyVDOJaXz5KoDJZgkAP",
+      "admin": "https://s.salla.sa/orders/order/yRdxQ9m28rEbamyVDOJaXz5KoDJZgkAP"
+    },
+    "date": {
+      "date": "2023-10-30 16:30:42.000000",
+      "timezone_type": 3,
+      "timezone": "Asia/Riyadh"
+    },
+    "source": "store",
+    "source_device": "desktop",
+    "source_details": {
+      "type": "direct",
+      "value": null,
+      "device": "desktop",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+      "ip": "41.44.87.123"
+    },
+    "first_complete_at": null,
+    "status": {
+      "id": 674130266,
+      "name": "محذوف",
+      "slug": "deleted"
+    },
+    "is_price_quote": false,
+    "payment_method": "bank",
+    "currency": "SAR",
+    "amounts": {
+      "sub_total": {
+        "amount": 620,
+        "currency": "SAR"
+      },
+      "shipping_cost": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "cash_on_delivery": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "tax": {
+        "percent": "15.00",
+        "amount": {
+          "amount": 93,
+          "currency": "SAR"
+        }
+      },
+      "discounts": [],
+      "total": {
+        "amount": 713,
+        "currency": "SAR"
+      }
+    },
+    "shipping": {
+      "id": 1915003055,
+      "app_id": null,
+      "company": "ناقل",
+      "logo": "",
+      "receiver": {
+        "name": "ساره الشهرى",
+        "email": "hm0323904@gmail.com",
+        "phone": "201553578047"
+      },
+      "shipper": {
+        "name": "الرئيسي",
+        "company_name": "Home ksa",
+        "email": "",
+        "phone": "966544995888"
+      },
+      "pickup_address": {
+        "country": "Saudi Arabia",
+        "country_code": "SA",
+        "city": "Jeddah",
+        "shipping_address": "ام القرى,الصفا,22345, جدة شارع ام القرى, Jeddah,Saudi Arabia",
+        "street_number": "ام القرى",
+        "block": "الصفا",
+        "postal_code": "22345",
+        "geo_coordinates": {
+          "lat": 21.5811888,
+          "lng": 39.2183456
+        }
+      },
+      "address": {
+        "country": "SA",
+        "country_code": "SA",
+        "city": "Medina",
+        "shipping_address": " شارع تست، الحي تست ،, Medina, Saudi Arabia",
+        "street_number": "تست",
+        "block": "تست",
+        "postal_code": "",
+        "geo_coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "shipment": {
+        "id": "0",
+        "pickup_id": null,
+        "tracking_link": "0",
+        "label": []
+      },
+      "policy_options": [],
+      "shipment_reference": 878162436,
+      "branch_id": 1361855767
+    },
+    "shipments": [
+      {
+        "id": 878162436,
+        "created_at": null,
+        "type": "shipment",
+        "courier_id": 1915003055,
+        "courier_name": "ناقل",
+        "courier_logo": "",
+        "shipping_number": null,
+        "tracking_number": null,
+        "pickup_id": null,
+        "trackable": false,
+        "tracking_link": null,
+        "label": null,
+        "payment_method": "bank",
+        "source": "store",
+        "status": "deleted",
+        "total": {
+          "amount": 713,
+          "currency": "SAR"
+        },
+        "cash_on_delivery": {
+          "amount": 0,
+          "currency": "SAR"
+        },
+        "is_international": false,
+        "total_weight": {
+          "value": 0.5,
+          "units": "kg"
+        },
+        "packages": [
+          {
+            "item_id": 1084642392,
+            "external_id": null,
+            "name": "كرسي ليزي هزاز",
+            "sku": "1183",
+            "price": {
+              "amount": 713,
+              "currency": "SAR"
+            },
+            "quantity": 1,
+            "weight": {
+              "value": 0.5,
+              "units": "kg"
+            }
+          }
+        ],
+        "ship_from": {
+          "type": "branch",
+          "name": "الرئيسي",
+          "email": "",
+          "phone": "966544995888",
+          "country": "Saudi Arabia",
+          "country_id": 1473353380,
+          "country_code": "SA",
+          "city": "Jeddah",
+          "city_id": 566146469,
+          "address_line": "ام القرى,الصفا,22345, جدة شارع ام القرى, Jeddah,Saudi Arabia",
+          "street_number": "ام القرى",
+          "block": "الصفا",
+          "postal_code": "22345",
+          "latitude": 21.5811888,
+          "longitude": 39.2183456,
+          "branch_id": 1361855767
+        },
+        "ship_to": {
+          "type": "address",
+          "name": "ساره الشهرى",
+          "email": "hm0323904@gmail.com",
+          "phone": "201553578047",
+          "country": "Saudi Arabia",
+          "country_id": 1473353380,
+          "country_code": "SA",
+          "city": "Medina",
+          "city_id": 1298199463,
+          "address_line": " شارع تست، الحي تست ،, Medina, Saudi Arabia",
+          "street_number": "تست",
+          "block": "تست",
+          "postal_code": "",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "meta": {
+          "app_id": 0,
+          "policy_options": []
+        }
+      }
+    ],
+    "can_cancel": false,
+    "show_weight": false,
+    "can_reorder": true,
+    "is_pending_payment": false,
+    "pending_payment_ends_at": 172768,
+    "total_weight": "0.5 KG",
+    "rating_link": null,
+    "shipment_branch": [
+      {
+        "id": 1361855767,
+        "name": "الرئيسي",
+        "status": "active",
+        "is_default": true,
+        "type": {}
+      }
+    ],
+    "customer": {
+      "id": 1132677288,
+      "first_name": "ساره",
+      "last_name": "الشهرى ",
+      "mobile": 1553578047,
+      "mobile_code": "+20",
+      "email": "hm0323904@gmail.com",
+      "urls": {
+        "customer": "https://homeksa-art.com/en/profile",
+        "admin": "https://s.salla.sa/customers/ojJNXqrZ3pYzMz0zlvBawlE8eGQLBRmK"
+      },
+      "avatar": "https://cdn.assets.salla.network/admin/cp/assets/images/avatar_female.png",
+      "gender": "female",
+      "birthday": {
+        "date": "1970-01-01 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "city": "المدينة المنورة",
+      "country": "Saudi Arabia",
+      "country_code": "EG",
+      "currency": "SAR",
+      "location": "",
+      "updated_at": {
+        "date": "2023-10-30 16:29:20.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "groups": []
+    },
+    "items": [
+      {
+        "id": 1084642392,
+        "name": "كرسي ليزي هزاز",
+        "sku": "1183",
+        "quantity": 1,
+        "currency": "SAR",
+        "weight": 0.5,
+        "weight_label": "0.5 KG",
+        "amounts": {
+          "price_without_tax": {
+            "amount": 620,
+            "currency": "SAR"
+          },
+          "total_discount": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "tax": {
+            "percent": "15.00",
+            "amount": {
+              "amount": 93,
+              "currency": "SAR"
+            }
+          },
+          "total": {
+            "amount": 620,
+            "currency": "SAR"
+          }
+        },
+        "notes": "",
+        "product": {
+          "id": 2037810039,
+          "type": "product",
+          "promotion": {
+            "title": "خصم 15%",
+            "sub_title": null
+          },
+          "quantity": null,
+          "status": "sale",
+          "is_available": true,
+          "sku": "1183",
+          "name": "كرسي ليزي هزاز",
+          "price": {
+            "amount": 620,
+            "currency": "SAR"
+          },
+          "sale_price": {
+            "amount": 620,
+            "currency": "SAR"
+          },
+          "currency": "SAR",
+          "url": "https://homeksa-art.com/en/كرسي-ليزي-هزاز/p2037810039",
+          "thumbnail": "https://cdn.salla.sa/xwWlv/nFJ3C3XNfXreePRfHw8jPBXcjVVmrAvAH6e2KODL.jpg",
+          "has_special_price": true,
+          "regular_price": {
+            "amount": 730,
+            "currency": "SAR"
+          },
+          "calories": null,
+          "mpn": "",
+          "gtin": "",
+          "description": "<p><strong> الوصف</strong> :</p><p><span style=\"color: rgb(67, 67, 67);\">كرسي ليزي هزاز بتصميم مودرن ، هيكله من المعدن المقوى ، مغطى باسفنج بكثافة تناسب الأوزان المختلفة ، مسند الظهر والقدم مزود بآلية لتعديل زاويته بسهولة تتيح للمستخدم اختيار الوضعية الأكثر ارتياحاً جالساً أو مستلقي , متوفر باللون السماوي ، يأتي بمقاس ( ارتفاع 94 سم - عرض 56 سم - عمق 86 سم ) ، ليصبح الكرسي المصمم لك للاسترخاء في جميع الأوقات.</span></p><p><strong style=\"color: rgb(67, 67, 67);\"> : تفاصيل سريعة</strong></p><p class=\"ql-align-right\"><strong style=\"color: rgb(67, 67, 67);\">﻿اللون : </strong><span style=\"color: rgb(67, 67, 67);\">السماوي</span></p><p class=\"ql-align-right\"><strong style=\"color: rgb(67, 67, 67);\">المقاس : </strong><span style=\"color: rgb(67, 67, 67);\">( ارتفاع 94 سم - عرض 56 سم - عمق 86 سم )</span></p><p class=\"ql-align-right\"><strong style=\"color: rgb(67, 67, 67);\">الخامات :</strong><span style=\"color: rgb(67, 67, 67);\"> خشب - اسفنج - قماش  - معدن</span></p><p class=\"ql-align-right\"><strong style=\"color: rgb(67, 67, 67);\">الاستخدام : </strong><span style=\"color: rgb(67, 67, 67);\">المنازل - الفنادق - المطاعم</span></p><p class=\"ql-align-right\"><br></p><p class=\"ql-align-right\"><br></p><p><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://video-cdn.aliexpress-media.com/9f8e1de30350cb41/P6RcDh2cJdvDptiuTmM/C5o7aFK78GzJ2zzp5vf_285660468860_hd_265_hq.mp4?auth_key=1691448187-0-0-afa5e058c822302dac2bd1efe8981c28&w=720&h=720&e=hd_265&t=213bc9f616836721870974511e6dfd&b=ae_sg&p=ae_sg_ae_sg_vpc_scene&tr=mp4-265-hd&t_u=21017a6516854564983111469e23fa&user=2206678752624&from=chrome\"></iframe><p class=\"ql-align-right\"><br></p><p><br></p><p><img src=\"https://cdn.salla.sa/NOmmV/zRmvTVeBuJxfCcrcKYY8HHknleGZ3PBC1krL9xtB.jpg\"><img src=\"https://cdn.salla.sa/NOmmV/U7du9KQ8ZqETdydp3ka1XbL2Fh6IvqEQaPCvhjiJ.jpg\"><img src=\"https://cdn.salla.sa/NOmmV/Je9qjBjeSSmtUFyGwxF50XTaLNfliww0AeNB0rvJ.jpg\"></p><p><br></p>",
+          "favorite": null,
+          "features": {
+            "availability_notify": null,
+            "show_rating": false
+          }
+        },
+        "options": [
+          {
+            "id": 1552651597,
+            "product_option_id": 1175850433,
+            "name": "اللون",
+            "type": "radio",
+            "value": {
+              "id": 1403465332,
+              "name": "رمادي",
+              "price": {
+                "amount": 0,
+                "currency": "SAR"
+              }
+            }
+          }
+        ],
+        "images": [],
+        "codes": [],
+        "files": [],
+        "product_reservations": []
+      }
+    ],
+    "bank": {
+      "id": 1870571146,
+      "bank_name": "مصرف الراجحي",
+      "bank_id": 566146469,
+      "account_name": "شركة احلام المنازل",
+      "account_number": "645608016140692",
+      "iban_number": "SA4380000645608016140692",
+      "iban_certificate": null,
+      "status": "active"
+    },
+    "tags": []
+  }
+},
+ {
+  "event": "review.added",
+  "merchant": 2023641241,
+  "created_at": "Mon Oct 30 2023 16:45:09 GMT+0300",
+  "data": {
+    "type": "rating",
+    "rating": "5",
+    "content": "جميل جدا ونفس الصوره",
+    "customer": {
+      "id": 1631840239,
+      "name": "عمرو فهد",
+      "mobile": "+201150890166",
+      "email": "ksah87348@gmail.com",
+      "avatar": "https://cdn.assets.salla.network/stores/themes/default/assets/images/avatar_male.png",
+      "country": "السعودية",
+      "city": "المدينة المنورة"
+    },
+    "product": {
+      "id": 2037810039,
+      "type": "product",
+      "promotion": {
+        "title": "خصم 15%",
+        "sub_title": null
+      },
+      "quantity": null,
+      "status": "sale",
+      "is_available": true,
+      "sku": "1183",
+      "name": "كرسي ليزى هزاز",
+      "price": {
+        "amount": 620,
+        "currency": "SAR"
+      },
+      "sale_price": {
+        "amount": 620,
+        "currency": "SAR"
+      },
+      "currency": "SAR",
+      "url": "https://homeksa-art.com/ar/كرسي-ليزى-هزاز/p2037810039",
+      "thumbnail": "https://cdn.salla.sa/xwWlv/nFJ3C3XNfXreePRfHw8jPBXcjVVmrAvAH6e2KODL.jpg",
+      "has_special_price": true,
+      "regular_price": {
+        "amount": 730,
+        "currency": "SAR"
+      },
+      "calories": null,
+      "mpn": "",
+      "gtin": "",
+      "description": "<p class=\"ql-align-right\"><strong>الوصف :</strong></p><p class=\"ql-align-right\"><span style=\"color: rgb(67, 67, 67);\">كرسي ليزي هزاز بتصميم مودرن ، هيكله من المعدن المقوى ، مغطى باسفنج بكثافة تناسب الأوزان المختلفة ، مسند الظهر والقدم مزود بآلية لتعديل زاويته بسهولة تتيح للمستخدم اختيار الوضعية الأكثر ارتياحاً جالساً أو مستلقي , متوفر باللون السماوي</span><strong style=\"color: rgb(67, 67, 67);\"> </strong><span style=\"color: rgb(67, 67, 67);\">، يأتي بمقاس</span><strong style=\"color: rgb(67, 67, 67);\"> </strong><span style=\"color: rgb(67, 67, 67);\">( ارتفاع 94 سم - عرض 56 سم - عمق 86 سم ) ، ليصبح الكرسي المصمم لك للاسترخاء في جميع الأوقات.</span></p><p class=\"ql-align-right\"><strong style=\"color: rgb(67, 67, 67);\">تفاصيل سريعة :</strong></p><p class=\"ql-align-right\"><strong style=\"color: rgb(67, 67, 67);\">﻿الالوان : </strong><span style=\"color: rgb(67, 67, 67);\">سماوي</span><strong style=\"color: rgb(67, 67, 67);\"> </strong></p><p class=\"ql-align-right\"><strong style=\"color: rgb(67, 67, 67);\">المقاس : </strong><span style=\"color: rgb(67, 67, 67);\">( ارتفاع 94 سم - عرض 56 سم - عمق 86 سم )</span></p><p class=\"ql-align-right\"><strong style=\"color: rgb(67, 67, 67);\">الخامات : </strong><span style=\"color: rgb(67, 67, 67);\">خشب - اسفنج - قماش  - معدن </span></p><p class=\"ql-align-right\"><strong style=\"color: rgb(67, 67, 67);\">الاستخدام : </strong><span style=\"color: rgb(67, 67, 67);\">المنازل - الفنادق - المطاعم</span></p><p class=\"ql-align-right\"><br></p><p class=\"ql-align-right\"><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://video-cdn.aliexpress-media.com/9f8e1de30350cb41/P6RcDh2cJdvDptiuTmM/C5o7aFK78GzJ2zzp5vf_285660468860_hd_265_hq.mp4?auth_key=1691448187-0-0-afa5e058c822302dac2bd1efe8981c28&w=720&h=720&e=hd_265&t=213bc9f616836721870974511e6dfd&b=ae_sg&p=ae_sg_ae_sg_vpc_scene&tr=mp4-265-hd&t_u=21017a6516854564983111469e23fa&user=2206678752624&from=chrome\"></iframe><p class=\"ql-align-right\"><br></p><p><br></p><p><img src=\"https://cdn.salla.sa/NOmmV/zRmvTVeBuJxfCcrcKYY8HHknleGZ3PBC1krL9xtB.jpg\"><img src=\"https://cdn.salla.sa/NOmmV/U7du9KQ8ZqETdydp3ka1XbL2Fh6IvqEQaPCvhjiJ.jpg\"><img src=\"https://cdn.salla.sa/NOmmV/Je9qjBjeSSmtUFyGwxF50XTaLNfliww0AeNB0rvJ.jpg\"></p><p><br></p>",
+      "favorite": null,
+      "features": {
+        "availability_notify": null,
+        "show_rating": false
+      }
+    },
+    "order": {
+      "id": 1736411522,
+      "reference_id": 88454951,
+      "total": {
+        "amount": 713,
+        "currency": "SAR"
+      },
+      "date": {
+        "date": "2023-10-30 16:34:53.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "status": {
+        "id": 655579871,
+        "name": "تم التوصيل",
+        "slug": "delivered"
+      },
+      "can_cancel": false,
+      "can_reorder": true,
+      "is_pending_payment": false,
+      "pending_payment_ends_at": 172182,
+      "items": [
+        {
+          "name": "كرسي ليزى هزاز",
+          "quantity": 1
+        }
+      ],
+      "customer": {
+        "id": 1631840239,
+        "first_name": "عمرو",
+        "last_name": "فهد",
+        "mobile": 1150890166,
+        "mobile_code": "+20",
+        "email": "ksah87348@gmail.com",
+        "urls": {
+          "customer": "https://homeksa-art.com/ar/profile",
+          "admin": "https://s.salla.sa/customers/mwQERo"
+        },
+        "avatar": "https://cdn.assets.salla.network/stores/themes/default/assets/images/avatar_male.png",
+        "gender": "",
+        "birthday": null,
+        "city": "المدينة المنورة",
+        "country": "السعودية",
+        "country_code": "EG",
+        "currency": "SAR",
+        "location": "",
+        "updated_at": {
+          "date": "2023-10-30 16:34:38.000000",
+          "timezone_type": 3,
+          "timezone": "Asia/Riyadh"
+        },
+        "groups": []
+      }
+    }
+  }
+},
+ {
+  "event": "product.available",
+  "merchant": 910242450,
+  "created_at": "Mon Oct 30 2023 21:21:30 GMT+0300",
+  "data": {
+    "id": 85420627,
+    "promotion": {
+      "title": null,
+      "sub_title": null
+    },
+    "sku": "",
+    "mpn": null,
+    "gtin": null,
+    "type": "product",
+    "name": "منتج تجريببي",
+    "short_link_code": "bRaOonj",
+    "urls": {
+      "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/منتج-تجريببي/p85420627",
+      "admin": "https://s.salla.sa/products/85420627"
+    },
+    "price": {
+      "amount": 500,
+      "currency": "SAR"
+    },
+    "taxed_price": {
+      "amount": 500,
+      "currency": "SAR"
+    },
+    "pre_tax_price": {
+      "amount": 500,
+      "currency": "SAR"
+    },
+    "tax": {
+      "amount": 0,
+      "currency": "SAR"
+    },
+    "description": "",
+    "quantity": null,
+    "status": "sale",
+    "is_available": true,
+    "views": 0,
+    "sale_price": {
+      "amount": 0,
+      "currency": "SAR"
+    },
+    "sale_end": null,
+    "require_shipping": true,
+    "cost_price": "",
+    "weight": 0,
+    "weight_type": "kg",
+    "with_tax": true,
+    "url": "https://salla.sa/dev-lfn63dclx2pulxgv/منتج-تجريببي/p85420627",
+    "main_image": "",
+    "images": [
+      {
+        "id": 627382888,
+        "url": "https://cdn.salla.sa/dPbglp/lANOJeEvM3NFjB839sukuDUQ2OcXD36F0sIRocjJ.png",
+        "main": false,
+        "three_d_image_url": "",
+        "alt": "منتج تجريببي",
+        "video_url": "",
+        "type": "image",
+        "sort": 0
+      }
+    ],
+    "sold_quantity": 0,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "rate": 0
+    },
+    "regular_price": {
+      "amount": 500,
+      "currency": "SAR"
+    },
+    "max_items_per_user": 0,
+    "maximum_quantity_per_order": null,
+    "show_in_app": false,
+    "notify_quantity": 0,
+    "hide_quantity": false,
+    "unlimited_quantity": true,
+    "managed_by_branches": false,
+    "services_blocks": {
+      "installments": []
+    },
+    "calories": null,
+    "customized_sku_quantity": false,
+    "channels": [
+      "web"
+    ],
+    "metadata": {
+      "title": null,
+      "description": null,
+      "url": null
+    },
+    "allow_attachments": false,
+    "is_pinned": false,
+    "pinned_date": "2023-10-30 20:05:35",
+    "sort": 0,
+    "enable_upload_image": false,
+    "updated_at": "2023-10-30 21:21:30",
+    "options": [],
+    "skus": [],
+    "categories": [
+      {
+        "id": 110422035,
+        "name": "الفساتين",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/الفساتين/c110422035",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 10,
+        "update_at": "2023-10-23 15:54:59",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      },
+      {
+        "id": 1349646108,
+        "name": "البلايز",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/البلايز/c1349646108",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 11,
+        "update_at": "2023-10-23 15:54:59",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      },
+      {
+        "id": 576591389,
+        "name": "التنانير",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/التنانير/c576591389",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 12,
+        "update_at": "2023-10-23 15:54:59",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      },
+      {
+        "id": 2084255006,
+        "name": "الجاكيتات",
+        "urls": {
+          "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/الجاكيتات/c2084255006",
+          "admin": "https://s.salla.sa/categories"
+        },
+        "items": [],
+        "parent_id": 0,
+        "status": "active",
+        "sort_order": 13,
+        "update_at": "2023-10-23 15:54:59",
+        "metadata": {
+          "title": null,
+          "description": null,
+          "url": null
+        },
+        "sub_categories": []
+      }
+    ],
+    "brand": null,
+    "tags": []
+  }
+},
+ {
+  "event": "order.total.price.updated",
+  "merchant": 910242450,
+  "created_at": "Wed Nov 01 2023 03:31:03 GMT+0300",
+  "data": {
+    "id": 1973516175,
+    "reference_id": 87512108,
+    "urls": {
+      "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/order/Y7GXy5K8j9Qw1l54q5zaLPkOq4omVNR2",
+      "admin": "https://s.salla.sa/orders/order/Y7GXy5K8j9Qw1l54q5zaLPkOq4omVNR2"
+    },
+    "date": {
+      "date": "2023-10-23 15:55:16.000000",
+      "timezone_type": 3,
+      "timezone": "Asia/Riyadh"
+    },
+    "source": "dashboard",
+    "source_device": "desktop",
+    "source_details": {
+      "type": "dashboard",
+      "value": null,
+      "device": "desktop",
+      "user-agent": "GuzzleHttp/7",
+      "ip": null
+    },
+    "first_complete_at": null,
+    "status": {
+      "id": 566146469,
+      "name": "بإنتظار المراجعة",
+      "slug": "under_review",
+      "customized": {
+        "id": 1868924254,
+        "name": "بإنتظار المراجعة"
+      }
+    },
+    "is_price_quote": false,
+    "payment_method": "bank",
+    "currency": "SAR",
+    "amounts": {
+      "sub_total": {
+        "amount": 35350,
+        "currency": "SAR"
+      },
+      "shipping_cost": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "cash_on_delivery": {
+        "amount": 0,
+        "currency": "SAR"
+      },
+      "tax": {
+        "percent": "0.00",
+        "amount": {
+          "amount": 0,
+          "currency": "SAR"
+        }
+      },
+      "discounts": [],
+      "total": {
+        "amount": 35350,
+        "currency": "SAR"
+      }
+    },
+    "shipping": null,
+    "shipments": null,
+    "can_cancel": false,
+    "show_weight": false,
+    "can_reorder": false,
+    "is_pending_payment": false,
+    "pending_payment_ends_at": 0,
+    "total_weight": "٣٠ كجم",
+    "rating_link": null,
+    "shipment_branch": [
+      {
+        "id": 1698673639,
+        "name": "الفرع الرئيسي",
+        "status": "active",
+        "is_default": true,
+        "type": {}
+      }
+    ],
+    "customer": {
+      "id": 1550968832,
+      "first_name": "Del",
+      "last_name": "Don",
+      "mobile": 555555555,
+      "mobile_code": "+971",
+      "email": "xdel1010@gmail.com",
+      "urls": {
+        "customer": "https://salla.sa/dev-lfn63dclx2pulxgv/profile",
+        "admin": "https://s.salla.sa/customers/rEwgmvek0zQVGMvOovm18RX9qY7LPNoZ"
+      },
+      "avatar": "https://cdn.assets.salla.network/admin/cp/assets/images/avatar_male.png",
+      "gender": "male",
+      "birthday": {
+        "date": "1983-02-12 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "city": "الرياض",
+      "country": "السعودية",
+      "country_code": "AE",
+      "currency": "SAR",
+      "location": "7575",
+      "updated_at": {
+        "date": "2023-10-31 17:40:17.000000",
+        "timezone_type": 3,
+        "timezone": "Asia/Riyadh"
+      },
+      "groups": []
+    },
+    "items": [
+      {
+        "id": 1648280942,
+        "name": "فستان",
+        "sku": "15504447-30000023080-",
+        "quantity": 100,
+        "currency": "SAR",
+        "weight": 25,
+        "weight_label": "٢٥ كجم",
+        "amounts": {
+          "price_without_tax": {
+            "amount": 349,
+            "currency": "SAR"
+          },
+          "total_discount": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "tax": {
+            "percent": "0.00",
+            "amount": {
+              "amount": 0,
+              "currency": "SAR"
+            }
+          },
+          "total": {
+            "amount": 34900,
+            "currency": "SAR"
+          }
+        },
+        "notes": "",
+        "product": {
+          "id": 499689613,
+          "type": "product",
+          "promotion": {
+            "title": null,
+            "sub_title": null
+          },
+          "quantity": null,
+          "status": "sale",
+          "is_available": true,
+          "sku": "15504447-30000023080-",
+          "name": "فستان",
+          "price": {
+            "amount": 174,
+            "currency": "SAR"
+          },
+          "sale_price": {
+            "amount": 174,
+            "currency": "SAR"
+          },
+          "currency": "SAR",
+          "url": "https://salla.sa/dev-lfn63dclx2pulxgv/فستان/p499689613",
+          "thumbnail": "https://salla-dev.s3.eu-central-1.amazonaws.com/nWzD/bL3FLXsYnlcjdn2TbeSdXh1y6nhiXWkzg7bMV9Lf.jpg",
+          "has_special_price": true,
+          "regular_price": {
+            "amount": 349,
+            "currency": "SAR"
+          },
+          "calories": null,
+          "mpn": null,
+          "gtin": null,
+          "description": "المقاس36الطول130الكم28.53813028.5401302942130294413029.5",
+          "favorite": null,
+          "features": {
+            "availability_notify": null,
+            "show_rating": true
+          }
+        },
+        "options": [],
+        "images": [],
+        "codes": [],
+        "files": [],
+        "product_reservations": []
+      },
+      {
+        "id": 1683370003,
+        "name": "منتج تجريببي",
+        "sku": "4654654654654",
+        "quantity": 1,
+        "currency": "SAR",
+        "weight": 5,
+        "weight_label": "٥ كجم",
+        "amounts": {
+          "price_without_tax": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "total_discount": {
+            "amount": 0,
+            "currency": "SAR"
+          },
+          "tax": {
+            "percent": "0.00",
+            "amount": {
+              "amount": 0,
+              "currency": "SAR"
+            }
+          },
+          "total": {
+            "amount": 450,
+            "currency": "SAR"
+          }
+        },
+        "notes": "",
+        "product": {
+          "id": 85420627,
+          "type": "product",
+          "promotion": {
+            "title": null,
+            "sub_title": "خصم  {percent} ( {discount} )"
+          },
+          "quantity": null,
+          "status": "sale",
+          "is_available": true,
+          "sku": "4654654654654",
+          "name": "منتج تجريببي",
+          "price": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "sale_price": {
+            "amount": 450,
+            "currency": "SAR"
+          },
+          "currency": "SAR",
+          "url": "https://salla.sa/dev-lfn63dclx2pulxgv/test-product/p85420627",
+          "thumbnail": "https://cdn.salla.sa/dPbglp/DnIU97qjiCsSLgcimUbdzTqRtU9nghKl9n3XSKhG.jpg",
+          "has_special_price": true,
+          "regular_price": {
+            "amount": 500,
+            "currency": "SAR"
+          },
+          "calories": null,
+          "mpn": "245324535",
+          "gtin": "53453523",
+          "description": "<p>وصف تجريبي </p><p><img src=\"https://cdn.salla.sa/dPbglp/1xBY0lBjB0aBl5ElRMCPQ8bGrNCRd3u3oecv6xlb.jpg\"></p>",
+          "favorite": null,
+          "features": {
+            "availability_notify": null,
+            "show_rating": true
+          }
+        },
+        "options": [],
+        "images": [],
+        "codes": [],
+        "files": [],
+        "product_reservations": []
+      }
+    ],
+    "bank": {
+      "id": 2052502747,
+      "bank_name": "البنك الأهلي التجاري",
+      "bank_id": 1473353380,
+      "account_name": "Demo Account",
+      "account_number": "000000608010167519",
+      "iban_number": "SA2380000382608010130308",
+      "iban_certificate": null,
+      "status": "active"
+    },
+    "tags": []
+  }
+} 
+
+]
