@@ -116,11 +116,29 @@ Schema::create('categories', function (Blueprint $table) {
     $table->unsignedBigInteger('salla_id');
     $table->unsignedBigInteger('store_id');
     $table->string('name');
+	$table->string('metadata_title')->nullable();
+	$table->text('metadata_description')->nullable();
+	$table->string('metadata_url')->nullable();	
     $table->text('description')->nullable();
     $table->timestamps();
     
     $table->foreign('store_id')->references('id')->on('stores');
 });		
+Schema::create('brands', function (Blueprint $table) {
+    $table->bigIncrements('id');
+    $table->unsignedBigInteger('salla_id');
+    $table->unsignedBigInteger('store_id');	
+    $table->string('name');
+    $table->text('description')->nullable();
+    $table->string('banner')->nullable();
+    $table->string('logo')->nullable();
+    $table->string('ar_char')->nullable();
+    $table->string('en_char')->nullable();
+    $table->timestamps();
+    $table->foreign('store_id')->references('id')->on('stores');
+	
+});
+
         // جدول المنتجات
         Schema::create('products', function (Blueprint $table) {
             $table->bigIncrements('id');
@@ -172,9 +190,16 @@ Schema::create('categories', function (Blueprint $table) {
             $table->string('name');
             $table->decimal('price', 8, 2)->nullable();  // قد يكون هناك سعر إضافي لبعض الخيارات
             $table->timestamps();
-            
+			$table->string('display_value')->nullable()->after('name');
+			$table->string('image_url')->nullable()->after('price');
+			$table->string('hashed_display_value')->nullable()->after('image_url');
+			$table->boolean('is_default')->default(false)->after('hashed_display_value');          
             $table->foreign('product_option_id')->references('id')->on('product_options');
         });
+		Schema::table('product_option_values', function (Blueprint $table) {
+
+});
+
 	// جدول صور المنتج
         Schema::create('product_images', function (Blueprint $table) {
             $table->bigIncrements('id');
@@ -186,14 +211,23 @@ Schema::create('categories', function (Blueprint $table) {
             $table->foreign('product_id')->references('id')->on('products');
         });
         // جدول حالات الطلب
-        Schema::create('order_statuses', function (Blueprint $table) {
-            $table->bigIncrements('id');
-            $table->unsignedBigInteger('salla_id');
-            $table->string('name');
-            $table->string('color');
-            $table->string('icon');
-            $table->timestamps();
-        });
+		Schema::create('order_statuses', function (Blueprint $table) {
+			$table->bigIncrements('id');
+			$table->unsignedBigInteger('salla_id');
+			$table->string('name');
+			$table->string('type');
+			$table->string('slug');
+			$table->text('message')->nullable();
+			$table->string('color');
+			$table->string('icon');
+			$table->integer('sort')->nullable();
+			$table->boolean('is_active')->default(true);
+			$table->unsignedBigInteger('parent_id')->nullable();
+			$table->timestamps();
+			
+			$table->foreign('parent_id')->references('id')->on('order_statuses')->onDelete('set null');
+		});
+		
 	// جدول الطلبات
         Schema::create('orders', function (Blueprint $table) {
             $table->bigIncrements('id');
@@ -228,18 +262,18 @@ Schema::create('categories', function (Blueprint $table) {
 
 
 
+		// جدول تاريخ الطلبات
 // جدول تاريخ الطلبات
 Schema::create('order_history', function (Blueprint $table) {
     $table->bigIncrements('id');
     $table->unsignedBigInteger('order_id');
-    $table->unsignedBigInteger('status_id');
-    $table->text('comment')->nullable(); // تعليق أو ملاحظة حول التغيير
-    $table->timestamp('changed_at')->useCurrent(); // وقت التغيير
-    $table->timestamps();
+    $table->string('status'); // الحالة كنص يتوافق مع بنية JSON
+    $table->text('note')->nullable(); // ملاحظة حول تغيير الحالة
+    $table->timestamps(); // يتضمن created_at و updated_at
     
     $table->foreign('order_id')->references('id')->on('orders');
-    $table->foreign('status_id')->references('id')->on('order_statuses');
 });
+
 
 
         // جدول وسائل الدفع للطلب
@@ -273,6 +307,35 @@ Schema::create('order_history', function (Blueprint $table) {
             $table->string('name');
             $table->timestamps();
         });
+		Schema::create('order_order_tag', function (Blueprint $table) {
+			$table->unsignedBigInteger('order_id');
+			$table->unsignedBigInteger('order_tag_id');
+			$table->timestamps();
+			
+			$table->foreign('order_id')->references('id')->on('orders')->onDelete('cascade');
+			$table->foreign('order_tag_id')->references('id')->on('order_tags')->onDelete('cascade');
+
+			$table->primary(['order_id', 'order_tag_id']);
+		});
+		
+		Schema::create('order_invoices', function (Blueprint $table) {
+			$table->bigIncrements('id');
+			$table->unsignedBigInteger('salla_id');
+			$table->unsignedBigInteger('order_id');
+			$table->string('type');
+			$table->string('invoice_number')->nullable();
+			$table->decimal('sub_total', 10, 2);
+			$table->decimal('shipping_cost', 10, 2)->nullable();
+			$table->decimal('cod_cost', 10, 2)->nullable();
+			$table->decimal('discount', 10, 2)->nullable();
+			$table->decimal('tax', 10, 2);
+			$table->decimal('tax_value', 10, 2);
+			$table->decimal('total', 10, 2);
+			$table->date('date')->nullable();
+			$table->timestamps();
+			
+			$table->foreign('order_id')->references('id')->on('orders');
+		});
 		
 		
     }
